@@ -1,33 +1,20 @@
 # import firebase_admin
 # from firebase_admin import credentials, db
-      
-# firebase_admin.initialize_app(options={
-#     'databaseURL': 'https://hakateam2019.firebaseio.com/'})
-
-# DOCTORS = db.reference('doctors')
-# CONSULTATIONS = db.reference('consultations')
-
 import flask
 from flask_restful import Api
 
-from resources.consultation import ConsultationsResource, ConsultationResource, DoctorResource, DoctorsResource
-
-# DOC = db.reference('doctors')
-# CON = db.reference('consultations')
-
-#firebase_admin.initialize_app()
-
-# firebase_admin.initialize_app(name="app", options={
-#     'databaseURL': 'https://hakateam2019.firebaseio.com/'
-# })
+import resources.endpoints as endpoints
 
 app = flask.Flask(__name__)
 api = Api(app)
 
-api.add_resource(ConsultationsResource, '/consultations')
-api.add_resource(ConsultationResource, '/consultations/<string:id>')
-api.add_resource(DoctorsResource, '/doctors')
-api.add_resource(DoctorResource, '/doctors/<string:id>')
+# add the resources to the API specifying the base URL endpoints
+api.add_resource(endpoints.ConsultationsResource, '/api/consultations')
+api.add_resource(endpoints.ConsultationResource, '/api/consultations/<string:id>')
+api.add_resource(endpoints.DoctorsResource, '/api/doctors')
+api.add_resource(endpoints.DoctorResource, '/api/doctors/<string:id>')
+api.add_resource(endpoints.PatientsResource, '/api/patients')
+api.add_resource(endpoints.PatientResource, '/api/patients/<string:id>')
 
 if __name__ == '__main__':
     app.run(host='127.0.0.1',debug=True)
