@@ -1,0 +1,5537 @@
+[
+ {
+   "Doctor Name": "LENIRA SOUZA VALADAO",
+   "Doctor Code": "53-CRM-15495",
+   "Specialty": "ENDOCRINOLOGISTA",
+   "Doctor Telephone": "+55 (11) 32642128",
+   "Latitude": -22.90556,
+   "Longitude": -47.06083,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "GEOVANNA LEA BARBOSA DE MENDON",
+   "Doctor Code": "53-CRM-7911",
+   "Specialty": "CLINICO GERAL",
+   "Doctor Telephone": "+55 (61) 777738010",
+   "Latitude": -22.90557,
+   "Longitude": -47.06084,
+   "Rating": 5
+ },
+ {
+   "Doctor Name": "POLIANA GARCIA VIEIRA",
+   "Doctor Code": "53-CRM-11813",
+   "Specialty": "CIRURGIA",
+   "Doctor Telephone": "+55 (61) 33311563",
+   "Latitude": -22.90558,
+   "Longitude": -47.06085,
+   "Rating": 2
+ },
+ {
+   "Doctor Name": "GABRIEL TAVEIRA",
+   "Doctor Code": "53-CRM-18271",
+   "Specialty": "CLINICO GERAL",
+   "Doctor Telephone": "+55 (11) 786113605",
+   "Latitude": -22.90559,
+   "Longitude": -47.06086,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "GUSTAVO FRANCKLIN MILWARD DE A",
+   "Doctor Code": "53-CRM-13823",
+   "Specialty": "CARDIOLOGISTA",
+   "Doctor Telephone": "+55 (61) 37772124",
+   "Latitude": -22.9056,
+   "Longitude": -47.06087,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "ADEWALE OKEOWO ADENIYI",
+   "Doctor Code": "53-CRM-16677",
+   "Specialty": "DERMATOLOGISTA",
+   "Doctor Telephone": "+55 (61) 76760726",
+   "Latitude": -22.90561,
+   "Longitude": -47.06088,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "NAYARA CRISTINA PEREIRA",
+   "Doctor Code": "RJ-CRM-21492",
+   "Specialty": "CIRURGIA",
+   "Doctor Telephone": "+55 (61) 34040707",
+   "Latitude": -22.90562,
+   "Longitude": -47.06089,
+   "Rating": 4
+ },
+ {
+   "Doctor Name": "LUCIANO NERY LOURENCO",
+   "Doctor Code": "53-CRM-20651",
+   "Specialty": "NEUROLOGIA",
+   "Doctor Telephone": "+55 (61) 34040708",
+   "Latitude": -22.90563,
+   "Longitude": -47.0609,
+   "Rating": 1
+ },
+ {
+   "Doctor Name": "ELYSE CARVALHO BORGES DOS S FI",
+   "Doctor Code": "53-CRM-15027",
+   "Specialty": "NEUROLOGIA",
+   "Doctor Telephone": "+55 (61) 34040709",
+   "Latitude": -22.90564,
+   "Longitude": -47.06091,
+   "Rating": 4
+ },
+ {
+   "Doctor Name": "REBECCA BARBOSA LIMA DITZEL",
+   "Doctor Code": "53-CRM-23266",
+   "Specialty": "NEUROLOGIA",
+   "Doctor Telephone": "+55 (61) 34040710",
+   "Latitude": -22.90565,
+   "Longitude": -47.06092,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "EUNILSON ALVES DE LIMA JUNIOR",
+   "Doctor Code": "53-CRM-18949",
+   "Specialty": "NEUROLOGIA",
+   "Doctor Telephone": "+55 (61) 34040711",
+   "Latitude": -22.90566,
+   "Longitude": -47.06093,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "EVERALDO MAIA",
+   "Doctor Code": "53-CRM-3906",
+   "Specialty": "CARDIOLOGISTA",
+   "Doctor Telephone": "+55 (61) 782004437",
+   "Latitude": -22.90567,
+   "Longitude": -47.06094,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "JOSE ALVES DOS SANTOS",
+   "Doctor Code": "53-CRM-3330",
+   "Specialty": "NEUROLOGIA",
+   "Doctor Telephone": "+55 (61) 772873576",
+   "Latitude": -22.90568,
+   "Longitude": -47.06095,
+   "Rating": 4
+ },
+ {
+   "Doctor Name": "ANA CAROLINA RODRIGUES GOIS",
+   "Doctor Code": "53-CRM-21548",
+   "Specialty": "NEUROLOGIA",
+   "Doctor Telephone": "+55 (61) 772873577",
+   "Latitude": -22.90569,
+   "Longitude": -47.06096,
+   "Rating": 4
+ },
+ {
+   "Doctor Name": "VICTOR HUGO MATTEUCCI ARAUJO",
+   "Doctor Code": "53-CRM-24127",
+   "Specialty": "NEUROLOGIA",
+   "Doctor Telephone": "+55 (61) 772873579",
+   "Latitude": -22.9057,
+   "Longitude": -47.06097,
+   "Rating": 2
+ },
+ {
+   "Doctor Name": "MARGARITA CORONEL BAZZANO",
+   "Doctor Code": "53-CRM-12513",
+   "Specialty": "CLINICO GERAL",
+   "Doctor Telephone": "+55 (61) 38777744",
+   "Latitude": -22.90571,
+   "Longitude": -47.06098,
+   "Rating": 4
+ },
+ {
+   "Doctor Name": "CELEDOME P DOS SANTOS",
+   "Doctor Code": "53-CRM-24176",
+   "Specialty": "CARDIOLOGISTA",
+   "Doctor Telephone": "+55 (61) 777743703",
+   "Latitude": -22.90572,
+   "Longitude": -47.06099,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "JOAO TEIXEIRA JR",
+   "Doctor Code": "53-CRM-18631",
+   "Specialty": "DERMATOLOGISTA",
+   "Doctor Telephone": "+55 (61) 771037185",
+   "Latitude": -22.90573,
+   "Longitude": -47.061,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "RAPHAEL DE SOUZA PIRES",
+   "Doctor Code": "53-CRM-18554",
+   "Specialty": "NEUROLOGIA",
+   "Doctor Telephone": "+55 (61) 771037186",
+   "Latitude": -22.90574,
+   "Longitude": -47.06101,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "GILBERTO BORGES DO PRADO JUNIO",
+   "Doctor Code": "53-CRM-23245",
+   "Specialty": "NEUROLOGIA",
+   "Doctor Telephone": "+55 (61) 771037187",
+   "Latitude": -22.90575,
+   "Longitude": -47.06102,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "URSULA SALES PADILHA",
+   "Doctor Code": "53-CRM-23233",
+   "Specialty": "NEUROLOGIA",
+   "Doctor Telephone": "+55 (61) 771037188",
+   "Latitude": -22.90576,
+   "Longitude": -47.06103,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "THIAGO MILLER SANTANA SOUZA",
+   "Doctor Code": "53-CRM-18476",
+   "Specialty": "CARDIOLOGISTA",
+   "Doctor Telephone": "+55 (61) 77555311",
+   "Latitude": -22.90577,
+   "Longitude": -47.06104,
+   "Rating": 4
+ },
+ {
+   "Doctor Name": "ANDREA JUNQUEIRA DE REZENDE",
+   "Doctor Code": "53-CRM-18001",
+   "Specialty": "ENDOCRINOLOGISTA",
+   "Doctor Telephone": "+55 (61) 33330227",
+   "Latitude": -22.90578,
+   "Longitude": -47.06105,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "WANILDETE NERI DE BARROS FERRE",
+   "Doctor Code": "53-CRM-2360",
+   "Specialty": "CIRURGIA",
+   "Doctor Telephone": "+55 (61) 33335665",
+   "Latitude": -22.90579,
+   "Longitude": -47.06106,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "GLAYSON SOARES",
+   "Doctor Code": "53-CRM-24181",
+   "Specialty": "CIRURGIA",
+   "Doctor Telephone": "+55 (61) 81440876",
+   "Latitude": -22.9058,
+   "Longitude": -47.06107,
+   "Rating": 2
+ },
+ {
+   "Doctor Name": "RAFAEL DE DEUS PIRES",
+   "Doctor Code": "53-CRM-16555",
+   "Specialty": "NEUROLOGIA",
+   "Doctor Telephone": "+55 (61) 81440877",
+   "Latitude": -22.90581,
+   "Longitude": -47.06108,
+   "Rating": 4
+ },
+ {
+   "Doctor Name": "JO�O TOMEDI",
+   "Doctor Code": "53-CRM-15652",
+   "Specialty": "NEUROLOGIA",
+   "Doctor Telephone": "+55 (61) 81440878",
+   "Latitude": -22.90582,
+   "Longitude": -47.06109,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "JOSE CLAUDIO V BITTENCOURT",
+   "Doctor Code": "53-CRM-23472",
+   "Specialty": "CLINICO GERAL",
+   "Doctor Telephone": "+55 (61) 81440881",
+   "Latitude": -22.90583,
+   "Longitude": -47.0611,
+   "Rating": 2
+ },
+ {
+   "Doctor Name": "MURILO OLIVEIRA HOSKEN JUNIOR",
+   "Doctor Code": "53-CRM-22766",
+   "Specialty": "NEUROLOGIA",
+   "Doctor Telephone": "+55 (61) 81440882",
+   "Latitude": -22.90584,
+   "Longitude": -47.06111,
+   "Rating": 2
+ },
+ {
+   "Doctor Name": "ALBA VALERIA EIRA FLEURY",
+   "Doctor Code": "RJ-CRM-6092",
+   "Specialty": "PEDIATRIA",
+   "Doctor Telephone": "+55 (61) 81440883",
+   "Latitude": -22.90585,
+   "Longitude": -47.06112,
+   "Rating": 1
+ },
+ {
+   "Doctor Name": "LIDIANE RIBEIRO COSTA",
+   "Doctor Code": "53-CRM-23168",
+   "Specialty": "PEDIATRIA",
+   "Doctor Telephone": "+55 (61) 81440884",
+   "Latitude": -22.90586,
+   "Longitude": -47.06113,
+   "Rating": 2
+ },
+ {
+   "Doctor Name": "BEATRIZ MARINS CARNEIRO",
+   "Doctor Code": "53-CRM-20999",
+   "Specialty": "PEDIATRIA",
+   "Doctor Telephone": "+55 (61) 81440885",
+   "Latitude": -22.90587,
+   "Longitude": -47.06114,
+   "Rating": 2
+ },
+ {
+   "Doctor Name": "DEBORA DE SOUSA RIBEIRO COSTA",
+   "Doctor Code": "53-CRM-20709",
+   "Specialty": "CARDIOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81440886",
+   "Latitude": -22.90588,
+   "Longitude": -47.06115,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "THALLES AUGUSTO DOS S. PORFIRI",
+   "Doctor Code": "53-CRM-24622",
+   "Specialty": "CARDIOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81440887",
+   "Latitude": -22.90589,
+   "Longitude": -47.06116,
+   "Rating": 2
+ },
+ {
+   "Doctor Name": "THIAGO RODRIGUES MORAIS PEREIR",
+   "Doctor Code": "53-CRM-23272",
+   "Specialty": "NEUROLOGIA",
+   "Doctor Telephone": "+55 (61) 81440889",
+   "Latitude": -22.9059,
+   "Longitude": -47.06117,
+   "Rating": 4
+ },
+ {
+   "Doctor Name": "JORDANNA SANTANNA DINIZ E MOUR",
+   "Doctor Code": "53-CRM-20813",
+   "Specialty": "CLINICO GERAL",
+   "Doctor Telephone": "+55 (61) 81440890",
+   "Latitude": -22.90591,
+   "Longitude": -47.06118,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "ANDRE SOUSA BRESANI",
+   "Doctor Code": "53-CRM-22299",
+   "Specialty": "NEUROLOGIA",
+   "Doctor Telephone": "+55 (61) 81440891",
+   "Latitude": -22.90592,
+   "Longitude": -47.06119,
+   "Rating": 2
+ },
+ {
+   "Doctor Name": "JOE MILTON CORDOVA BOCANEGRA",
+   "Doctor Code": "53-CRM-19415",
+   "Specialty": "NEUROLOGIA",
+   "Doctor Telephone": "+55 (61) 81440894",
+   "Latitude": -22.90593,
+   "Longitude": -47.0612,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "ALAN BARROSO DE ALMEIDA",
+   "Doctor Code": "53-CRM-19074",
+   "Specialty": "ENDOCRINOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81440895",
+   "Latitude": -22.90594,
+   "Longitude": -47.06121,
+   "Rating": 4
+ },
+ {
+   "Doctor Name": "SHAKESPEARE NOVAES CAVALCANTE",
+   "Doctor Code": "53-CRM-16110",
+   "Specialty": "ENDOCRINOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81440896",
+   "Latitude": -22.90595,
+   "Longitude": -47.06122,
+   "Rating": 1
+ },
+ {
+   "Doctor Name": "FULVIO GODINHO",
+   "Doctor Code": "53-CRM-18943",
+   "Specialty": "CARDIOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81440897",
+   "Latitude": -22.90596,
+   "Longitude": -47.06123,
+   "Rating": 4
+ },
+ {
+   "Doctor Name": "ELBER ROCHA BARBOSA JUNIOR",
+   "Doctor Code": "53-CRM-13257",
+   "Specialty": "NEUROLOGIA",
+   "Doctor Telephone": "+55 (61) 81440900",
+   "Latitude": -22.90597,
+   "Longitude": -47.06124,
+   "Rating": 2
+ },
+ {
+   "Doctor Name": "ANA PAULA DE FREITAS FARIAS",
+   "Doctor Code": "53-CRM-19604",
+   "Specialty": "NEUROLOGIA",
+   "Doctor Telephone": "+55 (61) 81440901",
+   "Latitude": -22.90598,
+   "Longitude": -47.06125,
+   "Rating": 4
+ },
+ {
+   "Doctor Name": "AYME CHAVES NOGUEIRA",
+   "Doctor Code": "53-CRM-21909",
+   "Specialty": "PEDIATRIA",
+   "Doctor Telephone": "+55 (61) 81440902",
+   "Latitude": -22.90599,
+   "Longitude": -47.06126,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "ERICA OLIVEIRA DE MEDEIROS",
+   "Doctor Code": "#NOME?",
+   "Specialty": "CARDIOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81440903",
+   "Latitude": -22.906,
+   "Longitude": -47.06127,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "FELIPE RODRIGUES BEZERRA",
+   "Doctor Code": "53-CRM-23510",
+   "Specialty": "NEUROLOGIA",
+   "Doctor Telephone": "+55 (61) 81440904",
+   "Latitude": -22.90601,
+   "Longitude": -47.06128,
+   "Rating": 4
+ },
+ {
+   "Doctor Name": "ANAHI TERCARIOLI",
+   "Doctor Code": "53-CRM-15548",
+   "Specialty": "NEUROLOGIA",
+   "Doctor Telephone": "+55 (61) 81440905",
+   "Latitude": -22.90602,
+   "Longitude": -47.06129,
+   "Rating": 4
+ },
+ {
+   "Doctor Name": "RENATA PEIXOTO CAMPOS DE MEDEI",
+   "Doctor Code": "53-CRM-12344",
+   "Specialty": "NEUROLOGIA",
+   "Doctor Telephone": "+55 (61) 81440906",
+   "Latitude": -22.90603,
+   "Longitude": -47.0613,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "KAMILLA VASCONCELOS PEREIRA",
+   "Doctor Code": "53-CRM-11721",
+   "Specialty": "CIRURGIA",
+   "Doctor Telephone": "+55 (61) 81440907",
+   "Latitude": -22.90604,
+   "Longitude": -47.06131,
+   "Rating": 5
+ },
+ {
+   "Doctor Name": "JOUBERT ARIEL PEREIRA MOSQUERA",
+   "Doctor Code": "53-CRM-14431",
+   "Specialty": "CARDIOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81440908",
+   "Latitude": -22.90605,
+   "Longitude": -47.06132,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "SIMONE REGINA COELHO LEITE",
+   "Doctor Code": "53-CRM-17968",
+   "Specialty": "CIRURGIA",
+   "Doctor Telephone": "+55 (61) 81440909",
+   "Latitude": -22.90606,
+   "Longitude": -47.06133,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "SANDRA REGINA LIMA CARNEIRO",
+   "Doctor Code": "53-CRM-10616",
+   "Specialty": "NEUROLOGIA",
+   "Doctor Telephone": "+55 (61) 81440911",
+   "Latitude": -22.90607,
+   "Longitude": -47.06134,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "KARINA TRINDADE",
+   "Doctor Code": "53-CRM-22442",
+   "Specialty": "ENDOCRINOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81440913",
+   "Latitude": -22.90608,
+   "Longitude": -47.06135,
+   "Rating": 2
+ },
+ {
+   "Doctor Name": "THIAGO PEREIRA LOURES",
+   "Doctor Code": "53-CRM-19038",
+   "Specialty": "CARDIOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81440914",
+   "Latitude": -22.90609,
+   "Longitude": -47.06136,
+   "Rating": 2
+ },
+ {
+   "Doctor Name": "ROBINSON CAPUCHO PARPINELLI",
+   "Doctor Code": "53-CRM-14536",
+   "Specialty": "CLINICO GERAL",
+   "Doctor Telephone": "+55 (61) 81440915",
+   "Latitude": -22.9061,
+   "Longitude": -47.06137,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "ANDRE ELIAS NEME GEBRIM",
+   "Doctor Code": "53-CRM-8381",
+   "Specialty": "DERMATOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81440916",
+   "Latitude": -22.90611,
+   "Longitude": -47.06138,
+   "Rating": 2
+ },
+ {
+   "Doctor Name": "ANDREA C. L. BARREDO LEAO",
+   "Doctor Code": "53-CRM-22733",
+   "Specialty": "CIRURGIA",
+   "Doctor Telephone": "+55 (61) 81440918",
+   "Latitude": -22.90612,
+   "Longitude": -47.06139,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "JANAINA CRISTINA DOS REIS MACH",
+   "Doctor Code": "53-CRM-19989",
+   "Specialty": "NEUROLOGIA",
+   "Doctor Telephone": "+55 (61) 81440919",
+   "Latitude": -22.90613,
+   "Longitude": -47.0614,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "LUIS MARTINS ALVES",
+   "Doctor Code": "53-CRM-15669",
+   "Specialty": "NEUROLOGIA",
+   "Doctor Telephone": "+55 (61) 81440920",
+   "Latitude": -22.90614,
+   "Longitude": -47.06141,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "RENATO SABBAG AMARAL BATISTA",
+   "Doctor Code": "53-CRM-11665",
+   "Specialty": "CARDIOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81440921",
+   "Latitude": -22.90615,
+   "Longitude": -47.06142,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "FABIA ALVES E SOUZA",
+   "Doctor Code": "RJ-CRM-10943",
+   "Specialty": "CARDIOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81440922",
+   "Latitude": -22.90616,
+   "Longitude": -47.06143,
+   "Rating": 2
+ },
+ {
+   "Doctor Name": "JO�O ROCHA TAVARES",
+   "Doctor Code": "53-CRM-10358",
+   "Specialty": "ENDOCRINOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81440923",
+   "Latitude": -22.90617,
+   "Longitude": -47.06144,
+   "Rating": 1
+ },
+ {
+   "Doctor Name": "JONATHAN JOSE ALVES NOGUEIRA",
+   "Doctor Code": "53-CRM-9736",
+   "Specialty": "NEUROLOGIA",
+   "Doctor Telephone": "+55 (61) 81440924",
+   "Latitude": -22.90618,
+   "Longitude": -47.06145,
+   "Rating": 1
+ },
+ {
+   "Doctor Name": "GILBERTO BORGES DO PRADO",
+   "Doctor Code": "53-CRM-23245",
+   "Specialty": "NEUROLOGIA",
+   "Doctor Telephone": "+55 (61) 81440925",
+   "Latitude": -22.90619,
+   "Longitude": -47.06146,
+   "Rating": 4
+ },
+ {
+   "Doctor Name": "ALESSANDRO ZAPP AZUBEL",
+   "Doctor Code": "53-CRM-20775",
+   "Specialty": "CLINICO GERAL",
+   "Doctor Telephone": "+55 (61) 81440927",
+   "Latitude": -22.9062,
+   "Longitude": -47.06147,
+   "Rating": 2
+ },
+ {
+   "Doctor Name": "LARISSA VILELA PEREIRA",
+   "Doctor Code": "53-CRM-16978",
+   "Specialty": "CARDIOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81440928",
+   "Latitude": -22.90621,
+   "Longitude": -47.06148,
+   "Rating": 4
+ },
+ {
+   "Doctor Name": "WILIAM HENRIQUE ALLEMAND BORGE",
+   "Doctor Code": "53-CRM-1141",
+   "Specialty": "DERMATOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81440929",
+   "Latitude": -22.90622,
+   "Longitude": -47.06149,
+   "Rating": 5
+ },
+ {
+   "Doctor Name": "JO�O BESSA MOREIRA COSTA",
+   "Doctor Code": "53-CRM-6931",
+   "Specialty": "DERMATOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81440930",
+   "Latitude": -22.90623,
+   "Longitude": -47.0615,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "RITA DE AGUIAR CARAZZA",
+   "Doctor Code": "53-CRM-20302",
+   "Specialty": "CARDIOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81440931",
+   "Latitude": -22.90624,
+   "Longitude": -47.06151,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "ANA AMELIA MACIEL ANA",
+   "Doctor Code": "53-CRM-2358",
+   "Specialty": "CIRURGIA",
+   "Doctor Telephone": "+55 (61) 81440933",
+   "Latitude": -22.90625,
+   "Longitude": -47.06152,
+   "Rating": 4
+ },
+ {
+   "Doctor Name": "FRANCISCO R R FERNANDES",
+   "Doctor Code": "53-CRM-24591",
+   "Specialty": "CIRURGIA",
+   "Doctor Telephone": "+55 (61) 81440934",
+   "Latitude": -22.90626,
+   "Longitude": -47.06153,
+   "Rating": 2
+ },
+ {
+   "Doctor Name": "ROBERTA PEREIRA BARCELOS",
+   "Doctor Code": "53-CRM-14944",
+   "Specialty": "ENDOCRINOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81440935",
+   "Latitude": -22.90627,
+   "Longitude": -47.06154,
+   "Rating": 4
+ },
+ {
+   "Doctor Name": "JOELSON DONIZETTI  DEVOTI",
+   "Doctor Code": "53-CRM-4812",
+   "Specialty": "NEUROLOGIA",
+   "Doctor Telephone": "+55 (61) 81440937",
+   "Latitude": -22.90628,
+   "Longitude": -47.06155,
+   "Rating": 2
+ },
+ {
+   "Doctor Name": "NABILLA NEVES FROTA SOUZA",
+   "Doctor Code": "53-CRM-19259",
+   "Specialty": "ENDOCRINOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81440938",
+   "Latitude": -22.90629,
+   "Longitude": -47.06156,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "YARA DE LA CARIDAD RAMIREZ",
+   "Doctor Code": "53-CRM-9559",
+   "Specialty": "PEDIATRIA",
+   "Doctor Telephone": "+55 (61) 81440939",
+   "Latitude": -22.9063,
+   "Longitude": -47.06157,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "EDNA ANA MARQUES DE OLIVEIRA",
+   "Doctor Code": "53-CRM-9424",
+   "Specialty": "CLINICO GERAL",
+   "Doctor Telephone": "+55 (61) 81440943",
+   "Latitude": -22.90631,
+   "Longitude": -47.06158,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "ROSANGELES KONRAD BRITO",
+   "Doctor Code": "53-CRM-5857",
+   "Specialty": "PEDIATRIA",
+   "Doctor Telephone": "+55 (61) 81440944",
+   "Latitude": -22.90632,
+   "Longitude": -47.06159,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "LUIS ANTONIO MARGOTO",
+   "Doctor Code": "53-CRM-6491",
+   "Specialty": "CLINICO GERAL",
+   "Doctor Telephone": "+55 (61) 81440945",
+   "Latitude": -22.90633,
+   "Longitude": -47.0616,
+   "Rating": 4
+ },
+ {
+   "Doctor Name": "RAIMUNDA MARISTELA SANTOS GARC",
+   "Doctor Code": "53-CRM-13054",
+   "Specialty": "CARDIOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81440946",
+   "Latitude": -22.90634,
+   "Longitude": -47.06161,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "JAIRO LYRA DE ANDRADE FILHO",
+   "Doctor Code": "53-CRM-13234",
+   "Specialty": "DERMATOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81440947",
+   "Latitude": -22.90635,
+   "Longitude": -47.06162,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "BARBARA RIOS VELLASCO DE AMORI",
+   "Doctor Code": "RJ-CRM-19193",
+   "Specialty": "PEDIATRIA",
+   "Doctor Telephone": "+55 (61) 81440950",
+   "Latitude": -22.90636,
+   "Longitude": -47.06163,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "HELENA C FARO S MELLO",
+   "Doctor Code": "53-CRM-16135",
+   "Specialty": "PEDIATRIA",
+   "Doctor Telephone": "+55 (61) 81440951",
+   "Latitude": -22.90637,
+   "Longitude": -47.06164,
+   "Rating": 4
+ },
+ {
+   "Doctor Name": "LEONARDO DE SOUZA SARAIVA",
+   "Doctor Code": "RJ-CRM-21296",
+   "Specialty": "ENDOCRINOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81440952",
+   "Latitude": -22.90638,
+   "Longitude": -47.06165,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "ANA CLAUDIA NUNES SOLA",
+   "Doctor Code": "53-CRM-19481",
+   "Specialty": "NEUROLOGIA",
+   "Doctor Telephone": "+55 (61) 81440954",
+   "Latitude": -22.90639,
+   "Longitude": -47.06166,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "MIRCIO ANTONIO ALVES",
+   "Doctor Code": "RJ-CRM-3658",
+   "Specialty": "ENDOCRINOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81440955",
+   "Latitude": -22.9064,
+   "Longitude": -47.06167,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "UBALDINA DE MEDEIROS VIANA CAR",
+   "Doctor Code": "53-CRM-4104",
+   "Specialty": "ENDOCRINOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81440956",
+   "Latitude": -22.90641,
+   "Longitude": -47.06168,
+   "Rating": 4
+ },
+ {
+   "Doctor Name": "FREED DA ANUNCIACAO",
+   "Doctor Code": "53-CRM-16406",
+   "Specialty": "NEUROLOGIA",
+   "Doctor Telephone": "+55 (61) 81440958",
+   "Latitude": -22.90642,
+   "Longitude": -47.06169,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "RUY PIMENTEL CARDOSO",
+   "Doctor Code": "53-CRM-12044",
+   "Specialty": "DERMATOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81440960",
+   "Latitude": -22.90643,
+   "Longitude": -47.0617,
+   "Rating": 2
+ },
+ {
+   "Doctor Name": "FERNANDA LOPES",
+   "Doctor Code": "53-CRM-15419",
+   "Specialty": "PEDIATRIA",
+   "Doctor Telephone": "+55 (61) 81440961",
+   "Latitude": -22.90644,
+   "Longitude": -47.06171,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "SARA FRANCO BARRETO",
+   "Doctor Code": "53-CRM-23837",
+   "Specialty": "ENDOCRINOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81440962",
+   "Latitude": -22.90645,
+   "Longitude": -47.06172,
+   "Rating": 4
+ },
+ {
+   "Doctor Name": "MELANIE SIMONE FRANCA",
+   "Doctor Code": "53-CRM-17646",
+   "Specialty": "CARDIOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81440963",
+   "Latitude": -22.90646,
+   "Longitude": -47.06173,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "PATRICIA RAQUEL FERREIRA DE OL",
+   "Doctor Code": "53-CRM-13761",
+   "Specialty": "NEUROLOGIA",
+   "Doctor Telephone": "+55 (61) 81440964",
+   "Latitude": -22.90647,
+   "Longitude": -47.06174,
+   "Rating": 2
+ },
+ {
+   "Doctor Name": "SANZIO PASCOALLE ANDRADE DOS A",
+   "Doctor Code": "53-CRM-22560",
+   "Specialty": "CIRURGIA",
+   "Doctor Telephone": "+55 (61) 81440965",
+   "Latitude": -22.90648,
+   "Longitude": -47.06175,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "LEONARDO DE SOUZA SARAIVA",
+   "Doctor Code": "53-CRM-21296",
+   "Specialty": "DERMATOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81440966",
+   "Latitude": -22.90649,
+   "Longitude": -47.06176,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "ISABELA DIAS GONCALVES",
+   "Doctor Code": "53-CRM-19755",
+   "Specialty": "NEUROLOGIA",
+   "Doctor Telephone": "+55 (61) 81440967",
+   "Latitude": -22.9065,
+   "Longitude": -47.06177,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "TABATA LONGO DA SOUZA",
+   "Doctor Code": "RJ-CRM-19828",
+   "Specialty": "CIRURGIA",
+   "Doctor Telephone": "+55 (61) 81440970",
+   "Latitude": -22.90651,
+   "Longitude": -47.06178,
+   "Rating": 4
+ },
+ {
+   "Doctor Name": "LARISSA RIBEIRO ALVES",
+   "Doctor Code": "53-CRM-22995",
+   "Specialty": "NEUROLOGIA",
+   "Doctor Telephone": "+55 (61) 81440971",
+   "Latitude": -22.90652,
+   "Longitude": -47.06179,
+   "Rating": 4
+ },
+ {
+   "Doctor Name": "KAMILA R ZAMPROGNO",
+   "Doctor Code": "53-CRM-18890",
+   "Specialty": "DERMATOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81440972",
+   "Latitude": -22.90653,
+   "Longitude": -47.0618,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "MARCO ANTONIO PASSOS",
+   "Doctor Code": "53-CRM-17775",
+   "Specialty": "CIRURGIA",
+   "Doctor Telephone": "+55 (61) 81440974",
+   "Latitude": -22.90654,
+   "Longitude": -47.06181,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "LUIZ WILIAM FERREIRA DE CARVAL",
+   "Doctor Code": "RJ-CRM-5135",
+   "Specialty": "DERMATOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81440975",
+   "Latitude": -22.90655,
+   "Longitude": -47.06182,
+   "Rating": 4
+ },
+ {
+   "Doctor Name": "RENATA COIMBRA GUADAGNIN",
+   "Doctor Code": "53-CRM-10844",
+   "Specialty": "CIRURGIA",
+   "Doctor Telephone": "+55 (61) 81440976",
+   "Latitude": -22.90656,
+   "Longitude": -47.06183,
+   "Rating": 2
+ },
+ {
+   "Doctor Name": "ISABELA ROCHA PEIXOTO",
+   "Doctor Code": "RJ-CRM-21306",
+   "Specialty": "ENDOCRINOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81440977",
+   "Latitude": -22.90657,
+   "Longitude": -47.06184,
+   "Rating": 4
+ },
+ {
+   "Doctor Name": "THALLES AUGUSTO DOS S PORFIRIO",
+   "Doctor Code": "53-CRM-24622",
+   "Specialty": "CARDIOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81440980",
+   "Latitude": -22.90658,
+   "Longitude": -47.06185,
+   "Rating": 4
+ },
+ {
+   "Doctor Name": "ANDRE FERREIRA VAZ",
+   "Doctor Code": "53-CRM-13182",
+   "Specialty": "CIRURGIA",
+   "Doctor Telephone": "+55 (61) 81440981",
+   "Latitude": -22.90659,
+   "Longitude": -47.06186,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "GIULIANO LUIS DA SOUZA JUL",
+   "Doctor Code": "53-CRM-8761",
+   "Specialty": "CLINICO GERAL",
+   "Doctor Telephone": "+55 (61) 81440982",
+   "Latitude": -22.9066,
+   "Longitude": -47.06187,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "IAN BARBOSA RODRIGUES",
+   "Doctor Code": "53-CRM-7135",
+   "Specialty": "DERMATOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81440983",
+   "Latitude": -22.90661,
+   "Longitude": -47.06188,
+   "Rating": 4
+ },
+ {
+   "Doctor Name": "LUIS OTAVIO MAMERI",
+   "Doctor Code": "RJ-CRM-7213",
+   "Specialty": "CARDIOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81440992",
+   "Latitude": -22.90662,
+   "Longitude": -47.06189,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "JOELSON DONIZETTE DEVOTI",
+   "Doctor Code": "53-CRM-4812",
+   "Specialty": "NEUROLOGIA",
+   "Doctor Telephone": "+55 (61) 81440993",
+   "Latitude": -22.90663,
+   "Longitude": -47.0619,
+   "Rating": 2
+ },
+ {
+   "Doctor Name": "CRISTIANE PORPINO",
+   "Doctor Code": "53-CRM-19814",
+   "Specialty": "CIRURGIA",
+   "Doctor Telephone": "+55 (61) 81440995",
+   "Latitude": -22.90664,
+   "Longitude": -47.06191,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "MARIANA DOS SANTOS PEREIRA",
+   "Doctor Code": "53-CRM-21347",
+   "Specialty": "DERMATOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81440996",
+   "Latitude": -22.90665,
+   "Longitude": -47.06192,
+   "Rating": 2
+ },
+ {
+   "Doctor Name": "MARCIO FERREIRA MARCELINO",
+   "Doctor Code": "53-CRM-11687",
+   "Specialty": "NEUROLOGIA",
+   "Doctor Telephone": "+55 (61) 81440998",
+   "Latitude": -22.90666,
+   "Longitude": -47.06193,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "FABIANO GIRADE CORREA",
+   "Doctor Code": "53-CRM-13062",
+   "Specialty": "NEUROLOGIA",
+   "Doctor Telephone": "+55 (61) 81440999",
+   "Latitude": -22.90667,
+   "Longitude": -47.06194,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "ELYSE CARVALHO BORGES DOS SANT",
+   "Doctor Code": "53-CRM-15027",
+   "Specialty": "NEUROLOGIA",
+   "Doctor Telephone": "+55 (61) 81441001",
+   "Latitude": -22.90668,
+   "Longitude": -47.06195,
+   "Rating": 4
+ },
+ {
+   "Doctor Name": "ANA CAROLINA CUNHA",
+   "Doctor Code": "RJ-CRM-23124",
+   "Specialty": "PEDIATRIA",
+   "Doctor Telephone": "+55 (61) 81441002",
+   "Latitude": -22.90669,
+   "Longitude": -47.06196,
+   "Rating": 4
+ },
+ {
+   "Doctor Name": "ANA CAROLINA BENVINDO LOPES",
+   "Doctor Code": "53-CRM-17439",
+   "Specialty": "CLINICO GERAL",
+   "Doctor Telephone": "+55 (61) 81441003",
+   "Latitude": -22.9067,
+   "Longitude": -47.06197,
+   "Rating": 2
+ },
+ {
+   "Doctor Name": "WERIDYANA BATISTA DE OLIVEIRA",
+   "Doctor Code": "53-CRM-17616",
+   "Specialty": "ENDOCRINOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441005",
+   "Latitude": -22.90671,
+   "Longitude": -47.06198,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "ARNALDO BOLINJA R JUNIOR",
+   "Doctor Code": "53-CRM-22753",
+   "Specialty": "ENDOCRINOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441006",
+   "Latitude": -22.90672,
+   "Longitude": -47.06199,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "MARIANA AIRES VIEIRA",
+   "Doctor Code": "RJ-CRM-15712",
+   "Specialty": "DERMATOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441007",
+   "Latitude": -22.90673,
+   "Longitude": -47.062,
+   "Rating": 4
+ },
+ {
+   "Doctor Name": "ROBINSON CAPUCHO PARPINELLI",
+   "Doctor Code": "RJ-CRM-14536",
+   "Specialty": "CLINICO GERAL",
+   "Doctor Telephone": "+55 (61) 81441008",
+   "Latitude": -22.90674,
+   "Longitude": -47.06201,
+   "Rating": 4
+ },
+ {
+   "Doctor Name": "NOEME ANA ACIOLI OSTERNE COE",
+   "Doctor Code": "53-CRM-13309",
+   "Specialty": "DERMATOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441009",
+   "Latitude": -22.90675,
+   "Longitude": -47.06202,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "TAMARA GAMBOGI ARAUJO",
+   "Doctor Code": "53-CRM-24482",
+   "Specialty": "ENDOCRINOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441013",
+   "Latitude": -22.90676,
+   "Longitude": -47.06203,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "NACKLE JIBRAN SOUZA",
+   "Doctor Code": "53-CRM-13992",
+   "Specialty": "NEUROLOGIA",
+   "Doctor Telephone": "+55 (61) 81441014",
+   "Latitude": -22.90677,
+   "Longitude": -47.06204,
+   "Rating": 2
+ },
+ {
+   "Doctor Name": "TARQUINO ERASTIDES GAVILANES S",
+   "Doctor Code": "53-CRM-9987",
+   "Specialty": "ENDOCRINOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441016",
+   "Latitude": -22.90678,
+   "Longitude": -47.06205,
+   "Rating": 4
+ },
+ {
+   "Doctor Name": "WALTER EMANOEL DE PAULA",
+   "Doctor Code": "53-CRM-10240",
+   "Specialty": "NEUROLOGIA",
+   "Doctor Telephone": "+55 (61) 81441017",
+   "Latitude": -22.90679,
+   "Longitude": -47.06206,
+   "Rating": 2
+ },
+ {
+   "Doctor Name": "ANGELA BEATRIZ PIMENTEL ZAPPAL",
+   "Doctor Code": "53-CRM-6113",
+   "Specialty": "NEUROLOGIA",
+   "Doctor Telephone": "+55 (61) 81441018",
+   "Latitude": -22.9068,
+   "Longitude": -47.06207,
+   "Rating": 4
+ },
+ {
+   "Doctor Name": "FRANCISCO R. R. FERNANDES",
+   "Doctor Code": "53-CRM-24591",
+   "Specialty": "CIRURGIA",
+   "Doctor Telephone": "+55 (61) 81441019",
+   "Latitude": -22.90681,
+   "Longitude": -47.06208,
+   "Rating": 2
+ },
+ {
+   "Doctor Name": "DAVI CELSO DE SOUZA CRUZ RODRI",
+   "Doctor Code": "RJ-CRM-9729",
+   "Specialty": "DERMATOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441024",
+   "Latitude": -22.90682,
+   "Longitude": -47.06209,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "JOSE ANA DE OLIVEIRA NETO",
+   "Doctor Code": "53-CRM-6459",
+   "Specialty": "PEDIATRIA",
+   "Doctor Telephone": "+55 (61) 81441025",
+   "Latitude": -22.90683,
+   "Longitude": -47.0621,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "JOSE COUTO DE SOUZA",
+   "Doctor Code": "RJ-CRM-12335",
+   "Specialty": "DERMATOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441027",
+   "Latitude": -22.90684,
+   "Longitude": -47.06211,
+   "Rating": 2
+ },
+ {
+   "Doctor Name": "CAROLINA ARANTES GAMA PORTO BR",
+   "Doctor Code": "53-CRM-21645",
+   "Specialty": "PEDIATRIA",
+   "Doctor Telephone": "+55 (61) 81441028",
+   "Latitude": -22.90685,
+   "Longitude": -47.06212,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "EDGARD SANTOS MAESTRO",
+   "Doctor Code": "RJ-CRM-13582",
+   "Specialty": "CLINICO GERAL",
+   "Doctor Telephone": "+55 (61) 81441029",
+   "Latitude": -22.90686,
+   "Longitude": -47.06213,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "JOAO WILIAM DE ARAUJO",
+   "Doctor Code": "53-CRM-9707",
+   "Specialty": "ENDOCRINOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441031",
+   "Latitude": -22.90687,
+   "Longitude": -47.06214,
+   "Rating": 4
+ },
+ {
+   "Doctor Name": "JOSE OLEGARIO DA CRUZ NETO",
+   "Doctor Code": "53-CRM-21106",
+   "Specialty": "NEUROLOGIA",
+   "Doctor Telephone": "+55 (61) 81441032",
+   "Latitude": -22.90688,
+   "Longitude": -47.06215,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "THAIS SOUZA CUNHA",
+   "Doctor Code": "53-CRM-23060",
+   "Specialty": "NEUROLOGIA",
+   "Doctor Telephone": "+55 (61) 81441033",
+   "Latitude": -22.90689,
+   "Longitude": -47.06216,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "ROBSON NUNES DA SOUZA",
+   "Doctor Code": "53-CRM-14341",
+   "Specialty": "CIRURGIA",
+   "Doctor Telephone": "+55 (61) 81441034",
+   "Latitude": -22.9069,
+   "Longitude": -47.06217,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "DEBORA MATIAS OLIVEIRA",
+   "Doctor Code": "53-CRM-18981",
+   "Specialty": "PEDIATRIA",
+   "Doctor Telephone": "+55 (61) 81441037",
+   "Latitude": -22.90691,
+   "Longitude": -47.06218,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "ALEXANDRE FONSECA DE MELO",
+   "Doctor Code": "53-CRM-19622",
+   "Specialty": "PEDIATRIA",
+   "Doctor Telephone": "+55 (61) 81441038",
+   "Latitude": -22.90692,
+   "Longitude": -47.06219,
+   "Rating": 4
+ },
+ {
+   "Doctor Name": "NICOLE ARAUJO",
+   "Doctor Code": "53-CRM-21430",
+   "Specialty": "CARDIOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441041",
+   "Latitude": -22.90693,
+   "Longitude": -47.0622,
+   "Rating": 2
+ },
+ {
+   "Doctor Name": "THOMAS SOUZA LIMA",
+   "Doctor Code": "53-CRM-18782",
+   "Specialty": "DERMATOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441044",
+   "Latitude": -22.90694,
+   "Longitude": -47.06221,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "FERNANDA TORINO REGINATO",
+   "Doctor Code": "53-CRM-19772",
+   "Specialty": "CARDIOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441045",
+   "Latitude": -22.90695,
+   "Longitude": -47.06222,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "ERICA OLIVEIRA DE MEDEIROS",
+   "Doctor Code": "53-CRM-19320",
+   "Specialty": "CLINICO GERAL",
+   "Doctor Telephone": "+55 (61) 81441048",
+   "Latitude": -22.90696,
+   "Longitude": -47.06223,
+   "Rating": 4
+ },
+ {
+   "Doctor Name": "DANYLLO ANTONIO MARTINS DE CAM",
+   "Doctor Code": "53-CRM-22067",
+   "Specialty": "ENDOCRINOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441049",
+   "Latitude": -22.90697,
+   "Longitude": -47.06224,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "CHRISTIANY DO NASCIMENTO TAVAR",
+   "Doctor Code": "53-CRM-22787",
+   "Specialty": "NEUROLOGIA",
+   "Doctor Telephone": "+55 (61) 81441050",
+   "Latitude": -22.90698,
+   "Longitude": -47.06225,
+   "Rating": 2
+ },
+ {
+   "Doctor Name": "RAISTER CARVALHO",
+   "Doctor Code": "53-CRM-24047",
+   "Specialty": "CLINICO GERAL",
+   "Doctor Telephone": "+55 (61) 81441051",
+   "Latitude": -22.90699,
+   "Longitude": -47.06226,
+   "Rating": 4
+ },
+ {
+   "Doctor Name": "CELEDOME P. DOS SANTOS",
+   "Doctor Code": "53-CRM-24176",
+   "Specialty": "CIRURGIA",
+   "Doctor Telephone": "+55 (61) 81441053",
+   "Latitude": -22.907,
+   "Longitude": -47.06227,
+   "Rating": 2
+ },
+ {
+   "Doctor Name": "GUSTAVO FRANCKLIN MILWARD DE A",
+   "Doctor Code": "53-CRM-13823",
+   "Specialty": "CARDIOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441054",
+   "Latitude": -22.90701,
+   "Longitude": -47.06228,
+   "Rating": 4
+ },
+ {
+   "Doctor Name": "SERGIO MORUM XAVIER",
+   "Doctor Code": "53-CRM-11063",
+   "Specialty": "DERMATOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441055",
+   "Latitude": -22.90702,
+   "Longitude": -47.06229,
+   "Rating": 2
+ },
+ {
+   "Doctor Name": "RAQUEL MARBURG TEIXEIRA",
+   "Doctor Code": "53-CRM-14665",
+   "Specialty": "CLINICO GERAL",
+   "Doctor Telephone": "+55 (61) 81441057",
+   "Latitude": -22.90703,
+   "Longitude": -47.0623,
+   "Rating": 2
+ },
+ {
+   "Doctor Name": "RITA DE AGUIAR CARAZZA",
+   "Doctor Code": "53-CRM-20302",
+   "Specialty": "CIRURGIA",
+   "Doctor Telephone": "+55 (61) 81441058",
+   "Latitude": -22.90704,
+   "Longitude": -47.06231,
+   "Rating": 4
+ },
+ {
+   "Doctor Name": "ANGELA BEATRIZ PIMENTEL ZAPPAL",
+   "Doctor Code": "53-CRM-6113",
+   "Specialty": "NEUROLOGIA",
+   "Doctor Telephone": "+55 (61) 81441059",
+   "Latitude": -22.90705,
+   "Longitude": -47.06232,
+   "Rating": 4
+ },
+ {
+   "Doctor Name": "FRANCISCO R R FERNANDES",
+   "Doctor Code": "53-CRM-24591",
+   "Specialty": "CIRURGIA",
+   "Doctor Telephone": "+55 (61) 81441060",
+   "Latitude": -22.90706,
+   "Longitude": -47.06233,
+   "Rating": 4
+ },
+ {
+   "Doctor Name": "JAIR TABCHOURY FILHO",
+   "Doctor Code": "53-CRM-12123",
+   "Specialty": "CIRURGIA",
+   "Doctor Telephone": "+55 (61) 81441061",
+   "Latitude": -22.90707,
+   "Longitude": -47.06234,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "CLARISSA CHASTINET DE CARVALHO",
+   "Doctor Code": "53-CRM-16472",
+   "Specialty": "CARDIOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441062",
+   "Latitude": -22.90708,
+   "Longitude": -47.06235,
+   "Rating": 2
+ },
+ {
+   "Doctor Name": "FABIANO GIRADE CORREA",
+   "Doctor Code": "53-CRM-13062",
+   "Specialty": "NEUROLOGIA",
+   "Doctor Telephone": "+55 (61) 81441063",
+   "Latitude": -22.90709,
+   "Longitude": -47.06236,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "RENATA PEIXOTO CAMPOS DE MEDEI",
+   "Doctor Code": "53-CRM-12344",
+   "Specialty": "CIRURGIA",
+   "Doctor Telephone": "+55 (61) 81441064",
+   "Latitude": -22.9071,
+   "Longitude": -47.06237,
+   "Rating": 2
+ },
+ {
+   "Doctor Name": "CASSIO JOSE MICELLI GUIMARAES",
+   "Doctor Code": "RJ-CRM-11472",
+   "Specialty": "ENDOCRINOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441065",
+   "Latitude": -22.90711,
+   "Longitude": -47.06238,
+   "Rating": 4
+ },
+ {
+   "Doctor Name": "JO�O TOMEDI",
+   "Doctor Code": "53-CRM-15652",
+   "Specialty": "NEUROLOGIA",
+   "Doctor Telephone": "+55 (61) 81441066",
+   "Latitude": -22.90712,
+   "Longitude": -47.06239,
+   "Rating": 4
+ },
+ {
+   "Doctor Name": "LUIS HENRIQUE BATISTA DA M",
+   "Doctor Code": "53-CRM-12833",
+   "Specialty": "CLINICO GERAL",
+   "Doctor Telephone": "+55 (61) 81441067",
+   "Latitude": -22.90713,
+   "Longitude": -47.0624,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "TATIANA MARA ANDRE CORDEIRO",
+   "Doctor Code": "53-CRM-15257",
+   "Specialty": "CIRURGIA",
+   "Doctor Telephone": "+55 (61) 81441069",
+   "Latitude": -22.90714,
+   "Longitude": -47.06241,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "ANDRE GUSTAVO CAIXETA MARINHO",
+   "Doctor Code": "53-CRM-12494",
+   "Specialty": "CIRURGIA",
+   "Doctor Telephone": "+55 (61) 81441070",
+   "Latitude": -22.90715,
+   "Longitude": -47.06242,
+   "Rating": 2
+ },
+ {
+   "Doctor Name": "RAFAEL DE DEUS PIRES",
+   "Doctor Code": "53-CRM-16555",
+   "Specialty": "NEUROLOGIA",
+   "Doctor Telephone": "+55 (61) 81441071",
+   "Latitude": -22.90716,
+   "Longitude": -47.06243,
+   "Rating": 5
+ },
+ {
+   "Doctor Name": "JUAN FLAVIO BRESANI ACEVEDO",
+   "Doctor Code": "53-CRM-2460",
+   "Specialty": "NEUROLOGIA",
+   "Doctor Telephone": "+55 (61) 81441072",
+   "Latitude": -22.90717,
+   "Longitude": -47.06244,
+   "Rating": 4
+ },
+ {
+   "Doctor Name": "KATHIUSCIA MILANEZI",
+   "Doctor Code": "53-CRM-21082",
+   "Specialty": "CLINICO GERAL",
+   "Doctor Telephone": "+55 (61) 81441076",
+   "Latitude": -22.90718,
+   "Longitude": -47.06245,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "VICTOR OLIVEIRA ALVES",
+   "Doctor Code": "53-CRM-21534",
+   "Specialty": "NEUROLOGIA",
+   "Doctor Telephone": "+55 (61) 81441077",
+   "Latitude": -22.90719,
+   "Longitude": -47.06246,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "JAIRO LYRA DE ANDRADE FILHO",
+   "Doctor Code": "53-CRM-13234",
+   "Specialty": "ENDOCRINOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441078",
+   "Latitude": -22.9072,
+   "Longitude": -47.06247,
+   "Rating": 2
+ },
+ {
+   "Doctor Name": "MARCOS RODRIGUES PONTES",
+   "Doctor Code": "53-CRM-19834",
+   "Specialty": "CIRURGIA",
+   "Doctor Telephone": "+55 (61) 81441079",
+   "Latitude": -22.90721,
+   "Longitude": -47.06248,
+   "Rating": 2
+ },
+ {
+   "Doctor Name": "RINALDI MAYA JUNIOR",
+   "Doctor Code": "53-CRM-2293",
+   "Specialty": "DERMATOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441080",
+   "Latitude": -22.90722,
+   "Longitude": -47.06249,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "KAMILLA VASCONCELOS PEREIRA",
+   "Doctor Code": "53-CRM-11721",
+   "Specialty": "NEUROLOGIA",
+   "Doctor Telephone": "+55 (61) 81441081",
+   "Latitude": -22.90723,
+   "Longitude": -47.0625,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "NANCY MENDONCA FERREIRA BORGES",
+   "Doctor Code": "53-CRM-15690",
+   "Specialty": "ENDOCRINOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441083",
+   "Latitude": -22.90724,
+   "Longitude": -47.06251,
+   "Rating": 2
+ },
+ {
+   "Doctor Name": "ROQUE MENDES DE SOUZA JUNIOR",
+   "Doctor Code": "53-CRM-13387",
+   "Specialty": "ENDOCRINOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441084",
+   "Latitude": -22.90725,
+   "Longitude": -47.06252,
+   "Rating": 4
+ },
+ {
+   "Doctor Name": "CLAUDIA ANDREA GAMA DE ARAUJO",
+   "Doctor Code": "53-CRM-12418",
+   "Specialty": "CIRURGIA",
+   "Doctor Telephone": "+55 (61) 81441085",
+   "Latitude": -22.90726,
+   "Longitude": -47.06253,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "ADRIANA DE J. BENEVIDES DE ALM",
+   "Doctor Code": "53-CRM-16635",
+   "Specialty": "DERMATOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441086",
+   "Latitude": -22.90727,
+   "Longitude": -47.06254,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "ROBINSON CAPUCHO PARPINELLI",
+   "Doctor Code": "53-CRM-14536",
+   "Specialty": "CLINICO GERAL",
+   "Doctor Telephone": "+55 (61) 81441089",
+   "Latitude": -22.90728,
+   "Longitude": -47.06255,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "PATRICK HENRIQUE CARDOSO",
+   "Doctor Code": "53-CRM-20777",
+   "Specialty": "DERMATOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441090",
+   "Latitude": -22.90729,
+   "Longitude": -47.06256,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "DENNYSON MELO ANDRADE",
+   "Doctor Code": "53-CRM-13233",
+   "Specialty": "DERMATOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441091",
+   "Latitude": -22.9073,
+   "Longitude": -47.06257,
+   "Rating": 2
+ },
+ {
+   "Doctor Name": "ANNY KAROLINY REZENDE LIMA",
+   "Doctor Code": "53-CRM-19659",
+   "Specialty": "ENDOCRINOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441092",
+   "Latitude": -22.90731,
+   "Longitude": -47.06258,
+   "Rating": 4
+ },
+ {
+   "Doctor Name": "CASSIO JOSE MICELLI GUIMARAES",
+   "Doctor Code": "53-CRM-11472",
+   "Specialty": "ENDOCRINOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441093",
+   "Latitude": -22.90732,
+   "Longitude": -47.06259,
+   "Rating": 2
+ },
+ {
+   "Doctor Name": "PEDRO LUIZ MONTEIRO BELMONTE",
+   "Doctor Code": "53-CRM-23169",
+   "Specialty": "NEUROLOGIA",
+   "Doctor Telephone": "+55 (61) 81441094",
+   "Latitude": -22.90733,
+   "Longitude": -47.0626,
+   "Rating": 4
+ },
+ {
+   "Doctor Name": "JORGE ALBERTO CAPRA BIASUZ",
+   "Doctor Code": "53-CRM-11795",
+   "Specialty": "CARDIOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441095",
+   "Latitude": -22.90734,
+   "Longitude": -47.06261,
+   "Rating": 2
+ },
+ {
+   "Doctor Name": "THOMAS SOUZA LIMA",
+   "Doctor Code": "53-CRM-18782",
+   "Specialty": "CARDIOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441096",
+   "Latitude": -22.90735,
+   "Longitude": -47.06262,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "LUCIANO NERY LOURENCO",
+   "Doctor Code": "53-CRM-20651",
+   "Specialty": "NEUROLOGIA",
+   "Doctor Telephone": "+55 (61) 81441097",
+   "Latitude": -22.90736,
+   "Longitude": -47.06263,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "MATHEUS SAMAPAIO TAVARES",
+   "Doctor Code": "53-CRM-24595",
+   "Specialty": "DERMATOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441098",
+   "Latitude": -22.90737,
+   "Longitude": -47.06264,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "JOUBERT ARIEL PEREIRA MOSQUERA",
+   "Doctor Code": "53-CRM-14431",
+   "Specialty": "CARDIOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441100",
+   "Latitude": -22.90738,
+   "Longitude": -47.06265,
+   "Rating": 5
+ },
+ {
+   "Doctor Name": "LUIZ ANTONIO ROSAS MELO",
+   "Doctor Code": "53-CRM-8489",
+   "Specialty": "CIRURGIA",
+   "Doctor Telephone": "+55 (61) 81441102",
+   "Latitude": -22.90739,
+   "Longitude": -47.06266,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "JOELSON DONIZETTI  DEVOTI",
+   "Doctor Code": "53-CRM-4812",
+   "Specialty": "NEUROLOGIA",
+   "Doctor Telephone": "+55 (61) 81441104",
+   "Latitude": -22.9074,
+   "Longitude": -47.06267,
+   "Rating": 2
+ },
+ {
+   "Doctor Name": "THALLES C. NASCIMENTO",
+   "Doctor Code": "53-CRM-24086",
+   "Specialty": "CARDIOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441105",
+   "Latitude": -22.90741,
+   "Longitude": -47.06268,
+   "Rating": 2
+ },
+ {
+   "Doctor Name": "KYARA LUIZA HOLANDA DE BRITO",
+   "Doctor Code": "53-CRM-21690",
+   "Specialty": "DERMATOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441106",
+   "Latitude": -22.90742,
+   "Longitude": -47.06269,
+   "Rating": 1
+ },
+ {
+   "Doctor Name": "TELMO DIAS BORBA DA COSTA",
+   "Doctor Code": "53-CRM-7644",
+   "Specialty": "CARDIOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441108",
+   "Latitude": -22.90743,
+   "Longitude": -47.0627,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "LUIZ JEAN CASTRO XIDIS",
+   "Doctor Code": "53-CRM-15790",
+   "Specialty": "DERMATOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441109",
+   "Latitude": -22.90744,
+   "Longitude": -47.06271,
+   "Rating": 2
+ },
+ {
+   "Doctor Name": "MANUEL RENATO RETAMOZO PALACIO",
+   "Doctor Code": "53-CRM-14130",
+   "Specialty": "CARDIOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441111",
+   "Latitude": -22.90745,
+   "Longitude": -47.06272,
+   "Rating": 2
+ },
+ {
+   "Doctor Name": "DENIZARD ALEXANDRE FERREIRA",
+   "Doctor Code": "53-CRM-4242",
+   "Specialty": "CARDIOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441113",
+   "Latitude": -22.90746,
+   "Longitude": -47.06273,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "SUZANE MARQUES MOREIRA",
+   "Doctor Code": "53-CRM-20617",
+   "Specialty": "CLINICO GERAL",
+   "Doctor Telephone": "+55 (61) 81441114",
+   "Latitude": -22.90747,
+   "Longitude": -47.06274,
+   "Rating": 5
+ },
+ {
+   "Doctor Name": "BRUNO DE SOUZA CRUZ",
+   "Doctor Code": "35-CRM-14423",
+   "Specialty": "CARDIOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441115",
+   "Latitude": -22.90748,
+   "Longitude": -47.06275,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "MANOEL VANDERLEI DOS SANTOS",
+   "Doctor Code": "53-CRM-8789",
+   "Specialty": "NEUROLOGIA",
+   "Doctor Telephone": "+55 (61) 81441116",
+   "Latitude": -22.90749,
+   "Longitude": -47.06276,
+   "Rating": 2
+ },
+ {
+   "Doctor Name": "JULIO CESAR FERREIRA JUNIOR",
+   "Doctor Code": "53-CRM-10826",
+   "Specialty": "ENDOCRINOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441117",
+   "Latitude": -22.9075,
+   "Longitude": -47.06277,
+   "Rating": 2
+ },
+ {
+   "Doctor Name": "MARCELO LIMA DE MENDONCA",
+   "Doctor Code": "53-CRM-10890",
+   "Specialty": "PEDIATRIA",
+   "Doctor Telephone": "+55 (61) 81441118",
+   "Latitude": -22.90751,
+   "Longitude": -47.06278,
+   "Rating": 2
+ },
+ {
+   "Doctor Name": "THIAGO RODRIGUES MORAIS PEREIR",
+   "Doctor Code": "53-CRM-23272",
+   "Specialty": "NEUROLOGIA",
+   "Doctor Telephone": "+55 (61) 81441119",
+   "Latitude": -22.90752,
+   "Longitude": -47.06279,
+   "Rating": 4
+ },
+ {
+   "Doctor Name": "RENATA FILARDI S DUARTE",
+   "Doctor Code": "53-CRM-14471",
+   "Specialty": "DERMATOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441121",
+   "Latitude": -22.90753,
+   "Longitude": -47.0628,
+   "Rating": 2
+ },
+ {
+   "Doctor Name": "MARINA BICALHO DE CASTRO",
+   "Doctor Code": "53-CRM-20841",
+   "Specialty": "CIRURGIA",
+   "Doctor Telephone": "+55 (61) 81441122",
+   "Latitude": -22.90754,
+   "Longitude": -47.06281,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "FERNANDA TORINO REGINATO",
+   "Doctor Code": "53-CRM-19772",
+   "Specialty": "CIRURGIA",
+   "Doctor Telephone": "+55 (61) 81441124",
+   "Latitude": -22.90755,
+   "Longitude": -47.06282,
+   "Rating": 4
+ },
+ {
+   "Doctor Name": "THALLES AUGUSTO DOS S. PORFIRI",
+   "Doctor Code": "53-CRM-24622",
+   "Specialty": "CARDIOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441125",
+   "Latitude": -22.90756,
+   "Longitude": -47.06283,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "CLAUDIO VENDRUSCOLO",
+   "Doctor Code": "RJ-CRM-13089",
+   "Specialty": "DERMATOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441126",
+   "Latitude": -22.90757,
+   "Longitude": -47.06284,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "MISSAKO UEMURA",
+   "Doctor Code": "53-CRM-1899",
+   "Specialty": "DERMATOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441127",
+   "Latitude": -22.90758,
+   "Longitude": -47.06285,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "BRUNO PASSOS DE SOUZA CARNEIRO",
+   "Doctor Code": "53-CRM-11142",
+   "Specialty": "ENDOCRINOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441128",
+   "Latitude": -22.90759,
+   "Longitude": -47.06286,
+   "Rating": 2
+ },
+ {
+   "Doctor Name": "THIAGO OKUBO",
+   "Doctor Code": "53-CRM-22556",
+   "Specialty": "DERMATOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441129",
+   "Latitude": -22.9076,
+   "Longitude": -47.06287,
+   "Rating": 2
+ },
+ {
+   "Doctor Name": "SORAYA VASCONCELOS ALMEIDA",
+   "Doctor Code": "53-CRM-18742",
+   "Specialty": "CIRURGIA",
+   "Doctor Telephone": "+55 (61) 81441130",
+   "Latitude": -22.90761,
+   "Longitude": -47.06288,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "LUIS OTAVIO GOMES PEREIRA",
+   "Doctor Code": "53-CRM-20640",
+   "Specialty": "CARDIOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441131",
+   "Latitude": -22.90762,
+   "Longitude": -47.06289,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "PAULO REGIS TAVORA DINIZ JUNIO",
+   "Doctor Code": "53-CRM-15648",
+   "Specialty": "CARDIOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441133",
+   "Latitude": -22.90763,
+   "Longitude": -47.0629,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "FATIMA RODRIGUES DA SOUZA",
+   "Doctor Code": "53-CRM-4482",
+   "Specialty": "DERMATOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441135",
+   "Latitude": -22.90764,
+   "Longitude": -47.06291,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "JOE MILTON CORDOVA BOCANEGRA",
+   "Doctor Code": "53-CRM-19415",
+   "Specialty": "NEUROLOGIA",
+   "Doctor Telephone": "+55 (61) 81441137",
+   "Latitude": -22.90765,
+   "Longitude": -47.06292,
+   "Rating": 5
+ },
+ {
+   "Doctor Name": "FAUSTO STAUFFER JUNQUEIRA DE S",
+   "Doctor Code": "53-CRM-16281",
+   "Specialty": "NEUROLOGIA",
+   "Doctor Telephone": "+55 (61) 81441138",
+   "Latitude": -22.90766,
+   "Longitude": -47.06293,
+   "Rating": 2
+ },
+ {
+   "Doctor Name": "RAMON REVUELTA TRUJILLO",
+   "Doctor Code": "53-CRM-23818",
+   "Specialty": "DERMATOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441141",
+   "Latitude": -22.90767,
+   "Longitude": -47.06294,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "MARCUS VINICIUS JACOME NORONHA",
+   "Doctor Code": "53-CRM-13203",
+   "Specialty": "ENDOCRINOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441142",
+   "Latitude": -22.90768,
+   "Longitude": -47.06295,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "KARINA TRINDADE",
+   "Doctor Code": "53-CRM-22442",
+   "Specialty": "ENDOCRINOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441143",
+   "Latitude": -22.90769,
+   "Longitude": -47.06296,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "RAPHAEL LANZA E PASSOS",
+   "Doctor Code": "53-CRM-18727",
+   "Specialty": "DERMATOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441144",
+   "Latitude": -22.9077,
+   "Longitude": -47.06297,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "RAISSA GAVINHO SANTOS",
+   "Doctor Code": "53-CRM-21815",
+   "Specialty": "CLINICO GERAL",
+   "Doctor Telephone": "+55 (61) 81441145",
+   "Latitude": -22.90771,
+   "Longitude": -47.06298,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "CELEDOME P. DOS SANTOS",
+   "Doctor Code": "53-CRM-24176",
+   "Specialty": "CARDIOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441146",
+   "Latitude": -22.90772,
+   "Longitude": -47.06299,
+   "Rating": 2
+ },
+ {
+   "Doctor Name": "ISABELLA DIAS GONCALVES",
+   "Doctor Code": "53-CRM-19755",
+   "Specialty": "NEUROLOGIA",
+   "Doctor Telephone": "+55 (61) 81441147",
+   "Latitude": -22.90773,
+   "Longitude": -47.063,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "MURILO OLIVEIRA HOSKEN JUNIOR",
+   "Doctor Code": "53-CRM-22766",
+   "Specialty": "NEUROLOGIA",
+   "Doctor Telephone": "+55 (61) 81441148",
+   "Latitude": -22.90774,
+   "Longitude": -47.06301,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "GUSTAVO FRANCKLIN MILWARD DE A",
+   "Doctor Code": "RJ-CRM-13823",
+   "Specialty": "CIRURGIA",
+   "Doctor Telephone": "+55 (61) 81441149",
+   "Latitude": -22.90775,
+   "Longitude": -47.06302,
+   "Rating": 2
+ },
+ {
+   "Doctor Name": "ANDRESSA FERNANDES PETRUCCE",
+   "Doctor Code": "53-CRM-18895",
+   "Specialty": "ENDOCRINOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441150",
+   "Latitude": -22.90776,
+   "Longitude": -47.06303,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "JONATAS FERNANDES DA SOUZA CAM",
+   "Doctor Code": "53-CRM-13187",
+   "Specialty": "NEUROLOGIA",
+   "Doctor Telephone": "+55 (61) 81441152",
+   "Latitude": -22.90777,
+   "Longitude": -47.06304,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "FABIO BARRETO COSTA",
+   "Doctor Code": "53-CRM-15581",
+   "Specialty": "NEUROLOGIA",
+   "Doctor Telephone": "+55 (61) 81441153",
+   "Latitude": -22.90778,
+   "Longitude": -47.06305,
+   "Rating": 4
+ },
+ {
+   "Doctor Name": "KARINA TRINDADE",
+   "Doctor Code": "RJ-CRM-22442",
+   "Specialty": "DERMATOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441154",
+   "Latitude": -22.90779,
+   "Longitude": -47.06306,
+   "Rating": 2
+ },
+ {
+   "Doctor Name": "ALBERTH TAVARES DA SOUZA",
+   "Doctor Code": "53-CRM-16931",
+   "Specialty": "PEDIATRIA",
+   "Doctor Telephone": "+55 (61) 81441155",
+   "Latitude": -22.9078,
+   "Longitude": -47.06307,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "ISADORA JOCHIMS",
+   "Doctor Code": "53-CRM-19985",
+   "Specialty": "CLINICO GERAL",
+   "Doctor Telephone": "+55 (61) 81441159",
+   "Latitude": -22.90781,
+   "Longitude": -47.06308,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "GLAYSON SOARES",
+   "Doctor Code": "53-CRM-24181",
+   "Specialty": "CIRURGIA",
+   "Doctor Telephone": "+55 (61) 81441161",
+   "Latitude": -22.90782,
+   "Longitude": -47.06309,
+   "Rating": 2
+ },
+ {
+   "Doctor Name": "MARCELO MARTINS OLIVEIRA",
+   "Doctor Code": "53-CRM-18293",
+   "Specialty": "ENDOCRINOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441164",
+   "Latitude": -22.90783,
+   "Longitude": -47.0631,
+   "Rating": 4
+ },
+ {
+   "Doctor Name": "ARNALDO BOLINJA R JUNIOR",
+   "Doctor Code": "53-CRM-22753",
+   "Specialty": "CIRURGIA",
+   "Doctor Telephone": "+55 (61) 81441165",
+   "Latitude": -22.90784,
+   "Longitude": -47.06311,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "ALEX CAETANO ROLINDO",
+   "Doctor Code": "53-CRM-11245",
+   "Specialty": "ENDOCRINOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441166",
+   "Latitude": -22.90785,
+   "Longitude": -47.06312,
+   "Rating": 2
+ },
+ {
+   "Doctor Name": "GABRIEL BORGES TEIXEIRA",
+   "Doctor Code": "53-CRM-24896",
+   "Specialty": "CLINICO GERAL",
+   "Doctor Telephone": "+55 (61) 81441168",
+   "Latitude": -22.90786,
+   "Longitude": -47.06313,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "JO�O CALS DE VASCONCELOS",
+   "Doctor Code": "53-CRM-19774",
+   "Specialty": "NEUROLOGIA",
+   "Doctor Telephone": "+55 (61) 81441170",
+   "Latitude": -22.90787,
+   "Longitude": -47.06314,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "ANNA PAOLA BARBOSA PEREIRA",
+   "Doctor Code": "53-CRM-20971",
+   "Specialty": "NEUROLOGIA",
+   "Doctor Telephone": "+55 (61) 81441171",
+   "Latitude": -22.90788,
+   "Longitude": -47.06315,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "GIULIANO LUIS DA SOUZA JUL",
+   "Doctor Code": "53-CRM-8761",
+   "Specialty": "CARDIOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441172",
+   "Latitude": -22.90789,
+   "Longitude": -47.06316,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "JONATHAN DE FIGUEIREDO VISSOTTO",
+   "Doctor Code": "53-CRM-20783",
+   "Specialty": "CIRURGIA",
+   "Doctor Telephone": "+55 (61) 81441173",
+   "Latitude": -22.9079,
+   "Longitude": -47.06317,
+   "Rating": 4
+ },
+ {
+   "Doctor Name": "WILIAM JONATHAN GRACINDO DE OLI",
+   "Doctor Code": "53-CRM-16964",
+   "Specialty": "NEUROLOGIA",
+   "Doctor Telephone": "+55 (61) 81441175",
+   "Latitude": -22.90791,
+   "Longitude": -47.06318,
+   "Rating": 4
+ },
+ {
+   "Doctor Name": "MARCELO ORLANDO PARIS CAVASSIN",
+   "Doctor Code": "53-CRM-16090",
+   "Specialty": "DERMATOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441176",
+   "Latitude": -22.90792,
+   "Longitude": -47.06319,
+   "Rating": 4
+ },
+ {
+   "Doctor Name": "GILBERTO BORGES DO PRADO",
+   "Doctor Code": "53-CRM-23245",
+   "Specialty": "NEUROLOGIA",
+   "Doctor Telephone": "+55 (61) 81441177",
+   "Latitude": -22.90793,
+   "Longitude": -47.0632,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "NILSON DE CASTRO CORREIA",
+   "Doctor Code": "53-CRM-18220",
+   "Specialty": "CIRURGIA",
+   "Doctor Telephone": "+55 (61) 81441178",
+   "Latitude": -22.90794,
+   "Longitude": -47.06321,
+   "Rating": 4
+ },
+ {
+   "Doctor Name": "FRANCIELI DE SOUSA RABELO",
+   "Doctor Code": "53-CRM-14411",
+   "Specialty": "CLINICO GERAL",
+   "Doctor Telephone": "+55 (61) 81441179",
+   "Latitude": -22.90795,
+   "Longitude": -47.06322,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "WILIAM  ALVARO CORREA ARAUJO",
+   "Doctor Code": "53-CRM-15545",
+   "Specialty": "NEUROLOGIA",
+   "Doctor Telephone": "+55 (61) 81441180",
+   "Latitude": -22.90796,
+   "Longitude": -47.06323,
+   "Rating": 4
+ },
+ {
+   "Doctor Name": "DANIELLE XAVIER",
+   "Doctor Code": "53-CRM-16660",
+   "Specialty": "ENDOCRINOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441181",
+   "Latitude": -22.90797,
+   "Longitude": -47.06324,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "WILLIAM CESAR BENTO",
+   "Doctor Code": "53-CRM-7867",
+   "Specialty": "DERMATOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441182",
+   "Latitude": -22.90798,
+   "Longitude": -47.06325,
+   "Rating": 2
+ },
+ {
+   "Doctor Name": "THIAGO RODRIGUES MORAIS PEREIR",
+   "Doctor Code": "53-CRM-23272",
+   "Specialty": "NEUROLOGIA",
+   "Doctor Telephone": "+55 (61) 81441183",
+   "Latitude": -22.90799,
+   "Longitude": -47.06326,
+   "Rating": 4
+ },
+ {
+   "Doctor Name": "GUSTAVO FRANCKLIN MILWARD DE A",
+   "Doctor Code": "53-CRM-13823",
+   "Specialty": "CIRURGIA",
+   "Doctor Telephone": "+55 (61) 81441184",
+   "Latitude": -22.908,
+   "Longitude": -47.06327,
+   "Rating": 2
+ },
+ {
+   "Doctor Name": "JO�O TANNUS SIMIONATTO",
+   "Doctor Code": "53-CRM-14991",
+   "Specialty": "CARDIOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441185",
+   "Latitude": -22.90801,
+   "Longitude": -47.06328,
+   "Rating": 5
+ },
+ {
+   "Doctor Name": "ALESSANDRA RITA LEITE E SIL",
+   "Doctor Code": "53-CRM-18512",
+   "Specialty": "NEUROLOGIA",
+   "Doctor Telephone": "+55 (61) 81441186",
+   "Latitude": -22.90802,
+   "Longitude": -47.06329,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "MIRNA REGO MELO MOURAO",
+   "Doctor Code": "53-CRM-18408",
+   "Specialty": "ENDOCRINOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441187",
+   "Latitude": -22.90803,
+   "Longitude": -47.0633,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "LEONARDO DE SOUZA SARAIVA",
+   "Doctor Code": "53-CRM-21296",
+   "Specialty": "DERMATOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441188",
+   "Latitude": -22.90804,
+   "Longitude": -47.06331,
+   "Rating": 2
+ },
+ {
+   "Doctor Name": "JOAO PAULO FERREIRA GUIMARAES",
+   "Doctor Code": "53-CRM-20594",
+   "Specialty": "CARDIOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441189",
+   "Latitude": -22.90805,
+   "Longitude": -47.06332,
+   "Rating": 4
+ },
+ {
+   "Doctor Name": "MARIO ANTONIO SALLENAVE FILHO",
+   "Doctor Code": "53-CRM-16230",
+   "Specialty": "CIRURGIA",
+   "Doctor Telephone": "+55 (61) 81441190",
+   "Latitude": -22.90806,
+   "Longitude": -47.06333,
+   "Rating": 4
+ },
+ {
+   "Doctor Name": "SHAKESPEARE NOVAES CAVALCANTE",
+   "Doctor Code": "53-CRM-16110",
+   "Specialty": "ENDOCRINOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441191",
+   "Latitude": -22.90807,
+   "Longitude": -47.06334,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "DEBORA SILVEIRA",
+   "Doctor Code": "53-CRM-15583",
+   "Specialty": "DERMATOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441192",
+   "Latitude": -22.90808,
+   "Longitude": -47.06335,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "JO�O TOMEDI",
+   "Doctor Code": "53-CRM-15652",
+   "Specialty": "NEUROLOGIA",
+   "Doctor Telephone": "+55 (61) 81441193",
+   "Latitude": -22.90809,
+   "Longitude": -47.06336,
+   "Rating": 4
+ },
+ {
+   "Doctor Name": "LARISSA RIBEIRO ALVES",
+   "Doctor Code": "53-CRM-22995",
+   "Specialty": "NEUROLOGIA",
+   "Doctor Telephone": "+55 (61) 81441194",
+   "Latitude": -22.9081,
+   "Longitude": -47.06337,
+   "Rating": 4
+ },
+ {
+   "Doctor Name": "ERICA REGINA ASSIS CIDADE DE S",
+   "Doctor Code": "53-CRM-13590",
+   "Specialty": "CLINICO GERAL",
+   "Doctor Telephone": "+55 (61) 81441195",
+   "Latitude": -22.90811,
+   "Longitude": -47.06338,
+   "Rating": 2
+ },
+ {
+   "Doctor Name": "ROBSON NUNES DA SOUZA",
+   "Doctor Code": "53-CRM-14341",
+   "Specialty": "CLINICO GERAL",
+   "Doctor Telephone": "+55 (61) 81441196",
+   "Latitude": -22.90812,
+   "Longitude": -47.06339,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "JOAO A TEIXEIRA JUNIOR",
+   "Doctor Code": "53-CRM-18631",
+   "Specialty": "DERMATOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441197",
+   "Latitude": -22.90813,
+   "Longitude": -47.0634,
+   "Rating": 5
+ },
+ {
+   "Doctor Name": "LUCIANO NERY LOURENCO",
+   "Doctor Code": "53-CRM-20651",
+   "Specialty": "NEUROLOGIA",
+   "Doctor Telephone": "+55 (61) 81441199",
+   "Latitude": -22.90814,
+   "Longitude": -47.06341,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "LUDMILLA GODOY BRAMBILLA BEZZA",
+   "Doctor Code": "53-CRM-21483",
+   "Specialty": "CLINICO GERAL",
+   "Doctor Telephone": "+55 (61) 81441200",
+   "Latitude": -22.90815,
+   "Longitude": -47.06342,
+   "Rating": 2
+ },
+ {
+   "Doctor Name": "ROSANGELES KONRAD BRITO",
+   "Doctor Code": "53-CRM-5857",
+   "Specialty": "DERMATOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441201",
+   "Latitude": -22.90816,
+   "Longitude": -47.06343,
+   "Rating": 2
+ },
+ {
+   "Doctor Name": "BRUNA STEFANY BENTO DE SOUSA T",
+   "Doctor Code": "53-CRM-23468",
+   "Specialty": "NEUROLOGIA",
+   "Doctor Telephone": "+55 (61) 81441203",
+   "Latitude": -22.90817,
+   "Longitude": -47.06344,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "DINEY SOARES TORRES ALBUQUERQU",
+   "Doctor Code": "53-CRM-10427",
+   "Specialty": "CARDIOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441204",
+   "Latitude": -22.90818,
+   "Longitude": -47.06345,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "NADIA SOLEDADE ESTRELA RENOVAT",
+   "Doctor Code": "53-CRM-12845",
+   "Specialty": "CARDIOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441205",
+   "Latitude": -22.90819,
+   "Longitude": -47.06346,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "THALLES AUGUSTO DOS S PORFIRIO",
+   "Doctor Code": "53-CRM-24622",
+   "Specialty": "CARDIOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441206",
+   "Latitude": -22.9082,
+   "Longitude": -47.06347,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "NATALIA S. BASTOS",
+   "Doctor Code": "53-CRM-16448",
+   "Specialty": "PEDIATRIA",
+   "Doctor Telephone": "+55 (61) 81441207",
+   "Latitude": -22.90821,
+   "Longitude": -47.06348,
+   "Rating": 2
+ },
+ {
+   "Doctor Name": "CARMEN REGINA DE SIQUEIRA L. F",
+   "Doctor Code": "53-CRM-5487",
+   "Specialty": "DERMATOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441208",
+   "Latitude": -22.90822,
+   "Longitude": -47.06349,
+   "Rating": 4
+ },
+ {
+   "Doctor Name": "CAROLINA ARANTES GAMA PORTO BR",
+   "Doctor Code": "53-CRM-21645",
+   "Specialty": "PEDIATRIA",
+   "Doctor Telephone": "+55 (61) 81441211",
+   "Latitude": -22.90823,
+   "Longitude": -47.0635,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "INGREDE LOBATO DE LIRA",
+   "Doctor Code": "53-CRM-24628",
+   "Specialty": "CARDIOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441213",
+   "Latitude": -22.90824,
+   "Longitude": -47.06351,
+   "Rating": 4
+ },
+ {
+   "Doctor Name": "JAIR TABCHOURY FILHO",
+   "Doctor Code": "53-CRM-12123",
+   "Specialty": "CARDIOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441215",
+   "Latitude": -22.90825,
+   "Longitude": -47.06352,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "KELLY CRISTINA GONCALVES DO NA",
+   "Doctor Code": "53-CRM-15466",
+   "Specialty": "ENDOCRINOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441216",
+   "Latitude": -22.90826,
+   "Longitude": -47.06353,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "ADEWALE OKEOWO ADENIYI",
+   "Doctor Code": "53-CRM-16677",
+   "Specialty": "DERMATOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441217",
+   "Latitude": -22.90827,
+   "Longitude": -47.06354,
+   "Rating": 2
+ },
+ {
+   "Doctor Name": "MARCUS VINICIUS MENDONCA",
+   "Doctor Code": "53-CRM-22551",
+   "Specialty": "CARDIOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441218",
+   "Latitude": -22.90828,
+   "Longitude": -47.06355,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "FLAVIO AUGUSTO VIVEIROS ARRUDA",
+   "Doctor Code": "53-CRM-15021",
+   "Specialty": "ENDOCRINOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441219",
+   "Latitude": -22.90829,
+   "Longitude": -47.06356,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "KARINE KELLY FRAUSINO",
+   "Doctor Code": "53-CRM-21532",
+   "Specialty": "NEUROLOGIA",
+   "Doctor Telephone": "+55 (61) 81441220",
+   "Latitude": -22.9083,
+   "Longitude": -47.06357,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "SARA FRANCO BARRETO",
+   "Doctor Code": "53-CRM-23837",
+   "Specialty": "ENDOCRINOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441221",
+   "Latitude": -22.90831,
+   "Longitude": -47.06358,
+   "Rating": 4
+ },
+ {
+   "Doctor Name": "KAMILLA VASCONCELOS PEREIRA",
+   "Doctor Code": "53-CRM-11721",
+   "Specialty": "NEUROLOGIA",
+   "Doctor Telephone": "+55 (61) 81441222",
+   "Latitude": -22.90832,
+   "Longitude": -47.06359,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "LUIS CESAR D ANDRADA SOBRI",
+   "Doctor Code": "53-CRM-2584",
+   "Specialty": "CIRURGIA",
+   "Doctor Telephone": "+55 (61) 81441223",
+   "Latitude": -22.90833,
+   "Longitude": -47.0636,
+   "Rating": 4
+ },
+ {
+   "Doctor Name": "JOSE MATIAS LOPES JUNIOR",
+   "Doctor Code": "53-CRM-24042",
+   "Specialty": "NEUROLOGIA",
+   "Doctor Telephone": "+55 (61) 81441224",
+   "Latitude": -22.90834,
+   "Longitude": -47.06361,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "JOELSON DONIZETTE DEVOTI",
+   "Doctor Code": "53-CRM-4812",
+   "Specialty": "NEUROLOGIA",
+   "Doctor Telephone": "+55 (61) 81441225",
+   "Latitude": -22.90835,
+   "Longitude": -47.06362,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "ROBERTA PEREIRA BARCELOS",
+   "Doctor Code": "53-CRM-14944",
+   "Specialty": "DERMATOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441226",
+   "Latitude": -22.90836,
+   "Longitude": -47.06363,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "UBIRATAN JOSE MARTINS SOBRINHO",
+   "Doctor Code": "RJ-CRM-10104",
+   "Specialty": "CIRURGIA",
+   "Doctor Telephone": "+55 (61) 81441227",
+   "Latitude": -22.90837,
+   "Longitude": -47.06364,
+   "Rating": 4
+ },
+ {
+   "Doctor Name": "RENATA PEIXOTO CAMPOS DE MEDEI",
+   "Doctor Code": "53-CRM-12344",
+   "Specialty": "NEUROLOGIA",
+   "Doctor Telephone": "+55 (61) 81441228",
+   "Latitude": -22.90838,
+   "Longitude": -47.06365,
+   "Rating": 2
+ },
+ {
+   "Doctor Name": "MARCELA DE BRITO NUNES",
+   "Doctor Code": "53-CRM-16067",
+   "Specialty": "DERMATOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441229",
+   "Latitude": -22.90839,
+   "Longitude": -47.06366,
+   "Rating": 2
+ },
+ {
+   "Doctor Name": "LUCIANO ROCHA",
+   "Doctor Code": "53-CRM-3939",
+   "Specialty": "ENDOCRINOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441230",
+   "Latitude": -22.9084,
+   "Longitude": -47.06367,
+   "Rating": 2
+ },
+ {
+   "Doctor Name": "WILIAM  ALVARO CORREA ARAUJO",
+   "Doctor Code": "53-CRM-15545",
+   "Specialty": "NEUROLOGIA",
+   "Doctor Telephone": "+55 (61) 81441231",
+   "Latitude": -22.90841,
+   "Longitude": -47.06368,
+   "Rating": 4
+ },
+ {
+   "Doctor Name": "SUSANNE DE OLIVEIRA MARTINS",
+   "Doctor Code": "53-CRM-17936",
+   "Specialty": "DERMATOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441232",
+   "Latitude": -22.90842,
+   "Longitude": -47.06369,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "TIAGO MAURMANN NILTON",
+   "Doctor Code": "53-CRM-22796",
+   "Specialty": "NEUROLOGIA",
+   "Doctor Telephone": "+55 (61) 81441234",
+   "Latitude": -22.90843,
+   "Longitude": -47.0637,
+   "Rating": 2
+ },
+ {
+   "Doctor Name": "ANA BEATRIZ KINUPE ABRAHAO",
+   "Doctor Code": "53-CRM-24391",
+   "Specialty": "NEUROLOGIA",
+   "Doctor Telephone": "+55 (61) 81441235",
+   "Latitude": -22.90844,
+   "Longitude": -47.06371,
+   "Rating": 4
+ },
+ {
+   "Doctor Name": "ANAHI TERCARIOLI",
+   "Doctor Code": "53-CRM-15548",
+   "Specialty": "NEUROLOGIA",
+   "Doctor Telephone": "+55 (61) 81441237",
+   "Latitude": -22.90845,
+   "Longitude": -47.06372,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "JAIRO LYRA DE ANDRADE FILHO",
+   "Doctor Code": "53-CRM-13234",
+   "Specialty": "ENDOCRINOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441238",
+   "Latitude": -22.90846,
+   "Longitude": -47.06373,
+   "Rating": 2
+ },
+ {
+   "Doctor Name": "BRUNNO GOMES ROCHA",
+   "Doctor Code": "53-CRM-18345",
+   "Specialty": "CLINICO GERAL",
+   "Doctor Telephone": "+55 (61) 81441239",
+   "Latitude": -22.90847,
+   "Longitude": -47.06374,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "TACIANA ANANIAS DE A PIRES SEP",
+   "Doctor Code": "RJ-CRM-23626",
+   "Specialty": "ENDOCRINOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441240",
+   "Latitude": -22.90848,
+   "Longitude": -47.06375,
+   "Rating": 4
+ },
+ {
+   "Doctor Name": "ELLEN DE SOUZA SIQUEIRA",
+   "Doctor Code": "53-CRM-18099",
+   "Specialty": "PEDIATRIA",
+   "Doctor Telephone": "+55 (61) 81441241",
+   "Latitude": -22.90849,
+   "Longitude": -47.06376,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "NADIA MARTINS DE PAULA SOUZA",
+   "Doctor Code": "53-CRM-11146",
+   "Specialty": "ENDOCRINOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441243",
+   "Latitude": -22.9085,
+   "Longitude": -47.06377,
+   "Rating": 2
+ },
+ {
+   "Doctor Name": "MILENA JORDAO VIEIRA GOMES",
+   "Doctor Code": "53-CRM-17947",
+   "Specialty": "PEDIATRIA",
+   "Doctor Telephone": "+55 (61) 81441244",
+   "Latitude": -22.90851,
+   "Longitude": -47.06378,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "RAFAEL DE DEUS PIRES",
+   "Doctor Code": "53-CRM-16555",
+   "Specialty": "NEUROLOGIA",
+   "Doctor Telephone": "+55 (61) 81441246",
+   "Latitude": -22.90852,
+   "Longitude": -47.06379,
+   "Rating": 4
+ },
+ {
+   "Doctor Name": "ORLANDO LOPATA",
+   "Doctor Code": "53-CRM-13284",
+   "Specialty": "NEUROLOGIA",
+   "Doctor Telephone": "+55 (61) 81441247",
+   "Latitude": -22.90853,
+   "Longitude": -47.0638,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "MOHAMMED J. NASSER",
+   "Doctor Code": "53-CRM-16173",
+   "Specialty": "NEUROLOGIA",
+   "Doctor Telephone": "+55 (61) 81441248",
+   "Latitude": -22.90854,
+   "Longitude": -47.06381,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "GIUSEPPE MUCCINI DE CARVALHO C",
+   "Doctor Code": "53-CRM-17007",
+   "Specialty": "NEUROLOGIA",
+   "Doctor Telephone": "+55 (61) 81441249",
+   "Latitude": -22.90855,
+   "Longitude": -47.06382,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "FRANCISCO R R FERNANDES",
+   "Doctor Code": "53-CRM-24591",
+   "Specialty": "CIRURGIA",
+   "Doctor Telephone": "+55 (61) 81441252",
+   "Latitude": -22.90856,
+   "Longitude": -47.06383,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "LUCIANNO HENRIQUE PEREIRA DOS",
+   "Doctor Code": "53-CRM-10381",
+   "Specialty": "DERMATOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441253",
+   "Latitude": -22.90857,
+   "Longitude": -47.06384,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "DAVID LIMA PEDROSA",
+   "Doctor Code": "53-CRM-18139",
+   "Specialty": "NEUROLOGIA",
+   "Doctor Telephone": "+55 (61) 81441254",
+   "Latitude": -22.90858,
+   "Longitude": -47.06385,
+   "Rating": 2
+ },
+ {
+   "Doctor Name": "ANDRE FERREIRA VAZ",
+   "Doctor Code": "53-CRM-13182",
+   "Specialty": "CARDIOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441255",
+   "Latitude": -22.90859,
+   "Longitude": -47.06386,
+   "Rating": 2
+ },
+ {
+   "Doctor Name": "ELIANDRO FIDELES SOARES",
+   "Doctor Code": "RJ-CRM-21633",
+   "Specialty": "DERMATOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441256",
+   "Latitude": -22.9086,
+   "Longitude": -47.06387,
+   "Rating": 4
+ },
+ {
+   "Doctor Name": "CARLYLE GUIMARAES",
+   "Doctor Code": "53-CRM-15334",
+   "Specialty": "CLINICO GERAL",
+   "Doctor Telephone": "+55 (61) 81441257",
+   "Latitude": -22.90861,
+   "Longitude": -47.06388,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "CLEIDER MACHADO DE SOUZA",
+   "Doctor Code": "53-CRM-9895",
+   "Specialty": "CARDIOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441258",
+   "Latitude": -22.90862,
+   "Longitude": -47.06389,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "JAQUELINE M. DA SILVEIRA",
+   "Doctor Code": "53-CRM-18391",
+   "Specialty": "DERMATOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441259",
+   "Latitude": -22.90863,
+   "Longitude": -47.0639,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "WANDLER DE PADUA FILHO",
+   "Doctor Code": "53-CRM-8825",
+   "Specialty": "CLINICO GERAL",
+   "Doctor Telephone": "+55 (61) 81441261",
+   "Latitude": -22.90864,
+   "Longitude": -47.06391,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "ROBINSON CAPUCHO PARPINELLI",
+   "Doctor Code": "53-CRM-14536",
+   "Specialty": "CARDIOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441262",
+   "Latitude": -22.90865,
+   "Longitude": -47.06392,
+   "Rating": 2
+ },
+ {
+   "Doctor Name": "JO�O DE SOUZA MONTEIRO",
+   "Doctor Code": "53-CRM-9161",
+   "Specialty": "CIRURGIA",
+   "Doctor Telephone": "+55 (61) 81441263",
+   "Latitude": -22.90866,
+   "Longitude": -47.06393,
+   "Rating": 2
+ },
+ {
+   "Doctor Name": "PAULO MORENO",
+   "Doctor Code": "53-CRM-22437",
+   "Specialty": "ENDOCRINOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441264",
+   "Latitude": -22.90867,
+   "Longitude": -47.06394,
+   "Rating": 2
+ },
+ {
+   "Doctor Name": "ANA CAROLINA PEREIRA DE ALMEID",
+   "Doctor Code": "53-CRM-21617",
+   "Specialty": "CLINICO GERAL",
+   "Doctor Telephone": "+55 (61) 81441265",
+   "Latitude": -22.90868,
+   "Longitude": -47.06395,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "JOAO JO�O POLETTI",
+   "Doctor Code": "53-CRM-20179",
+   "Specialty": "CLINICO GERAL",
+   "Doctor Telephone": "+55 (61) 81441266",
+   "Latitude": -22.90869,
+   "Longitude": -47.06396,
+   "Rating": 2
+ },
+ {
+   "Doctor Name": "AMABEL GOMES DE BRITO",
+   "Doctor Code": "53-CRM-16093",
+   "Specialty": "CIRURGIA",
+   "Doctor Telephone": "+55 (61) 81441267",
+   "Latitude": -22.9087,
+   "Longitude": -47.06397,
+   "Rating": 4
+ },
+ {
+   "Doctor Name": "THALLES C NASCIMENTO",
+   "Doctor Code": "53-CRM-24086",
+   "Specialty": "DERMATOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441268",
+   "Latitude": -22.90871,
+   "Longitude": -47.06398,
+   "Rating": 5
+ },
+ {
+   "Doctor Name": "FRANCISCO R. R. FERNANDES",
+   "Doctor Code": "53-CRM-24591",
+   "Specialty": "CIRURGIA",
+   "Doctor Telephone": "+55 (61) 81441269",
+   "Latitude": -22.90872,
+   "Longitude": -47.06399,
+   "Rating": 2
+ },
+ {
+   "Doctor Name": "INGREDE LOBATO LIRA",
+   "Doctor Code": "53-CRM-24628",
+   "Specialty": "CARDIOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441272",
+   "Latitude": -22.90873,
+   "Longitude": -47.064,
+   "Rating": 2
+ },
+ {
+   "Doctor Name": "ROSA ELISA ABARCA STRONG",
+   "Doctor Code": "53-CRM-3343",
+   "Specialty": "PEDIATRIA",
+   "Doctor Telephone": "+55 (61) 81441275",
+   "Latitude": -22.90874,
+   "Longitude": -47.06401,
+   "Rating": 4
+ },
+ {
+   "Doctor Name": "ALEXANDRA CORREA GERVAZONI BAL",
+   "Doctor Code": "53-CRM-13237",
+   "Specialty": "CLINICO GERAL",
+   "Doctor Telephone": "+55 (61) 81441276",
+   "Latitude": -22.90875,
+   "Longitude": -47.06402,
+   "Rating": 2
+ },
+ {
+   "Doctor Name": "SUZANE MARQUES MOREIRA",
+   "Doctor Code": "53-CRM-20617",
+   "Specialty": "CARDIOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441278",
+   "Latitude": -22.90876,
+   "Longitude": -47.06403,
+   "Rating": 4
+ },
+ {
+   "Doctor Name": "IGOR MACIEL MAGALHAES",
+   "Doctor Code": "53-CRM-18324",
+   "Specialty": "CARDIOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441279",
+   "Latitude": -22.90877,
+   "Longitude": -47.06404,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "NINA DE OLIVEIRA E OLIVEIRA",
+   "Doctor Code": "53-CRM-21249",
+   "Specialty": "NEUROLOGIA",
+   "Doctor Telephone": "+55 (61) 81441280",
+   "Latitude": -22.90878,
+   "Longitude": -47.06405,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "UBALDINA DE MEDEIROS VIANA CAR",
+   "Doctor Code": "53-CRM-4104",
+   "Specialty": "CLINICO GERAL",
+   "Doctor Telephone": "+55 (61) 81441282",
+   "Latitude": -22.90879,
+   "Longitude": -47.06406,
+   "Rating": 4
+ },
+ {
+   "Doctor Name": "FABIO ANDRE ROSA SOUZA",
+   "Doctor Code": "53-CRM-22283",
+   "Specialty": "NEUROLOGIA",
+   "Doctor Telephone": "+55 (61) 81441284",
+   "Latitude": -22.9088,
+   "Longitude": -47.06407,
+   "Rating": 2
+ },
+ {
+   "Doctor Name": "LAILA LOPES DE FARIAS PINHO",
+   "Doctor Code": "53-CRM-18646",
+   "Specialty": "ENDOCRINOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441285",
+   "Latitude": -22.90881,
+   "Longitude": -47.06408,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "ANNA LUIZA ALVES",
+   "Doctor Code": "53-CRM-22433",
+   "Specialty": "ENDOCRINOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441288",
+   "Latitude": -22.90882,
+   "Longitude": -47.06409,
+   "Rating": 2
+ },
+ {
+   "Doctor Name": "JORGE ALBERTO CAPRA BIASUZ",
+   "Doctor Code": "53-CRM-11795",
+   "Specialty": "CLINICO GERAL",
+   "Doctor Telephone": "+55 (61) 81441290",
+   "Latitude": -22.90883,
+   "Longitude": -47.0641,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "ISABELA DIAS GONCALVES",
+   "Doctor Code": "53-CRM-19755",
+   "Specialty": "NEUROLOGIA",
+   "Doctor Telephone": "+55 (61) 81441292",
+   "Latitude": -22.90884,
+   "Longitude": -47.06411,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "JOE MILTON CORDOVA BOCANEGRA",
+   "Doctor Code": "53-CRM-19415",
+   "Specialty": "NEUROLOGIA",
+   "Doctor Telephone": "+55 (61) 81441294",
+   "Latitude": -22.90885,
+   "Longitude": -47.06412,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "CRISTHIANE PINHEIRO TEIXEIRA G",
+   "Doctor Code": "53-CRM-13116",
+   "Specialty": "CARDIOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441295",
+   "Latitude": -22.90886,
+   "Longitude": -47.06413,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "YANNA PONTES PRADO",
+   "Doctor Code": "53-CRM-19801",
+   "Specialty": "CARDIOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441296",
+   "Latitude": -22.90887,
+   "Longitude": -47.06414,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "PAULO ROBERTO BITTENCOURT DA S",
+   "Doctor Code": "53-CRM-16864",
+   "Specialty": "NEUROLOGIA",
+   "Doctor Telephone": "+55 (61) 81441297",
+   "Latitude": -22.90888,
+   "Longitude": -47.06415,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "HENRIQUE DE LIMA TAKAMI",
+   "Doctor Code": "53-CRM-13608",
+   "Specialty": "NEUROLOGIA",
+   "Doctor Telephone": "+55 (61) 81441298",
+   "Latitude": -22.90889,
+   "Longitude": -47.06416,
+   "Rating": 4
+ },
+ {
+   "Doctor Name": "CLAUDIA FERREIRA PEREIRA",
+   "Doctor Code": "53-CRM-18222",
+   "Specialty": "NEUROLOGIA",
+   "Doctor Telephone": "+55 (61) 81441299",
+   "Latitude": -22.9089,
+   "Longitude": -47.06417,
+   "Rating": 2
+ },
+ {
+   "Doctor Name": "POLIANA GARCIA VIEIRA",
+   "Doctor Code": "RJ-CRM-11813",
+   "Specialty": "DERMATOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441301",
+   "Latitude": -22.90891,
+   "Longitude": -47.06418,
+   "Rating": 4
+ },
+ {
+   "Doctor Name": "JANAINA DA SOUZA DOMINGUES",
+   "Doctor Code": "53-CRM-19208",
+   "Specialty": "CARDIOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441303",
+   "Latitude": -22.90892,
+   "Longitude": -47.06419,
+   "Rating": 2
+ },
+ {
+   "Doctor Name": "CANDIDA ELIZABETH DE ALMEIDA K",
+   "Doctor Code": "RJ-CRM-5564",
+   "Specialty": "DERMATOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441304",
+   "Latitude": -22.90893,
+   "Longitude": -47.0642,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "REBECCA BARBOSA LIMA DITZEL",
+   "Doctor Code": "53-CRM-23266",
+   "Specialty": "NEUROLOGIA",
+   "Doctor Telephone": "+55 (61) 81441305",
+   "Latitude": -22.90894,
+   "Longitude": -47.06421,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "JOAO WILIAM DE ARAUJO",
+   "Doctor Code": "53-CRM-9707",
+   "Specialty": "CLINICO GERAL",
+   "Doctor Telephone": "+55 (61) 81441310",
+   "Latitude": -22.90895,
+   "Longitude": -47.06422,
+   "Rating": 2
+ },
+ {
+   "Doctor Name": "DEBORA PATRICIA R. E. SALA",
+   "Doctor Code": "53-CRM-14829",
+   "Specialty": "CLINICO GERAL",
+   "Doctor Telephone": "+55 (61) 81441312",
+   "Latitude": -22.90896,
+   "Longitude": -47.06423,
+   "Rating": 2
+ },
+ {
+   "Doctor Name": "DEBORAH S BATISTA",
+   "Doctor Code": "53-CRM-24713",
+   "Specialty": "CIRURGIA",
+   "Doctor Telephone": "+55 (61) 81441313",
+   "Latitude": -22.90897,
+   "Longitude": -47.06424,
+   "Rating": 4
+ },
+ {
+   "Doctor Name": "LENIRA SOUZA VALADAO",
+   "Doctor Code": "53-CRM-15495",
+   "Specialty": "CLINICO GERAL",
+   "Doctor Telephone": "+55 (61) 81441314",
+   "Latitude": -22.90898,
+   "Longitude": -47.06425,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "JOCIETE VARGAS DE CARVALHO",
+   "Doctor Code": "53-CRM-11213",
+   "Specialty": "DERMATOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441316",
+   "Latitude": -22.90899,
+   "Longitude": -47.06426,
+   "Rating": 2
+ },
+ {
+   "Doctor Name": "VALMIR HILARIO SOUZA FILHO",
+   "Doctor Code": "53-CRM-19692",
+   "Specialty": "CLINICO GERAL",
+   "Doctor Telephone": "+55 (61) 81441317",
+   "Latitude": -22.909,
+   "Longitude": -47.06427,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "LUIZ FELIPE GARCIA ALBERTO DE",
+   "Doctor Code": "53-CRM-18994",
+   "Specialty": "NEUROLOGIA",
+   "Doctor Telephone": "+55 (61) 81441319",
+   "Latitude": -22.90901,
+   "Longitude": -47.06428,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "ANA LUIZA MELO DOS SANTOS",
+   "Doctor Code": "53-CRM-21798",
+   "Specialty": "PEDIATRIA",
+   "Doctor Telephone": "+55 (61) 81441320",
+   "Latitude": -22.90902,
+   "Longitude": -47.06429,
+   "Rating": 4
+ },
+ {
+   "Doctor Name": "FABIO ANTONIO DE ANDRADE",
+   "Doctor Code": "53-CRM-18996",
+   "Specialty": "PEDIATRIA",
+   "Doctor Telephone": "+55 (61) 81441322",
+   "Latitude": -22.90903,
+   "Longitude": -47.0643,
+   "Rating": 4
+ },
+ {
+   "Doctor Name": "GILBERTO BORGES DO PRADO",
+   "Doctor Code": "53-CRM-23245",
+   "Specialty": "NEUROLOGIA",
+   "Doctor Telephone": "+55 (61) 81441323",
+   "Latitude": -22.90904,
+   "Longitude": -47.06431,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "EVERSON SIDNEY DA SOUZA MOREIR",
+   "Doctor Code": "53-CRM-15856",
+   "Specialty": "CIRURGIA",
+   "Doctor Telephone": "+55 (61) 81441324",
+   "Latitude": -22.90905,
+   "Longitude": -47.06432,
+   "Rating": 2
+ },
+ {
+   "Doctor Name": "JOELSON DONIZETTI  DEVOTI",
+   "Doctor Code": "53-CRM-4812",
+   "Specialty": "NEUROLOGIA",
+   "Doctor Telephone": "+55 (61) 81441325",
+   "Latitude": -22.90906,
+   "Longitude": -47.06433,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "ANA BERNADETE GALVAO PINTO",
+   "Doctor Code": "RJ-CRM-5451",
+   "Specialty": "CARDIOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441329",
+   "Latitude": -22.90907,
+   "Longitude": -47.06434,
+   "Rating": 2
+ },
+ {
+   "Doctor Name": "WENDEL DOS SANTOS FURTADO",
+   "Doctor Code": "53-CRM-8916",
+   "Specialty": "NEUROLOGIA",
+   "Doctor Telephone": "+55 (61) 81441330",
+   "Latitude": -22.90908,
+   "Longitude": -47.06435,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "ALEXANDRE MARCELO SOUZA TEIXEI",
+   "Doctor Code": "53-CRM-10807",
+   "Specialty": "NEUROLOGIA",
+   "Doctor Telephone": "+55 (61) 81441333",
+   "Latitude": -22.90909,
+   "Longitude": -47.06436,
+   "Rating": 5
+ },
+ {
+   "Doctor Name": "MARCOS RODRIGUES PONTES",
+   "Doctor Code": "53-CRM-19834",
+   "Specialty": "NEUROLOGIA",
+   "Doctor Telephone": "+55 (61) 81441334",
+   "Latitude": -22.9091,
+   "Longitude": -47.06437,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "ELYSE CARVALHO BORGES DOS SANT",
+   "Doctor Code": "53-CRM-15027",
+   "Specialty": "NEUROLOGIA",
+   "Doctor Telephone": "+55 (61) 81441335",
+   "Latitude": -22.90911,
+   "Longitude": -47.06438,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "THOMAZ SCHRODER LAMEIRINHAS",
+   "Doctor Code": "53-CRM-24091",
+   "Specialty": "ENDOCRINOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441338",
+   "Latitude": -22.90912,
+   "Longitude": -47.06439,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "ALEXANDRE ROCHA MELO",
+   "Doctor Code": "53-CRM-15111",
+   "Specialty": "DERMATOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441340",
+   "Latitude": -22.90913,
+   "Longitude": -47.0644,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "JULIA ALESSANDRA SANTOS FERREI",
+   "Doctor Code": "53-CRM-19578",
+   "Specialty": "CLINICO GERAL",
+   "Doctor Telephone": "+55 (61) 81441342",
+   "Latitude": -22.90914,
+   "Longitude": -47.06441,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "PABLO BORGES LEAL",
+   "Doctor Code": "53-CRM-24952",
+   "Specialty": "ENDOCRINOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441344",
+   "Latitude": -22.90915,
+   "Longitude": -47.06442,
+   "Rating": 2
+ },
+ {
+   "Doctor Name": "JEIZA ANDRADE DE SANTANA",
+   "Doctor Code": "53-CRM-12143",
+   "Specialty": "CARDIOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441345",
+   "Latitude": -22.90916,
+   "Longitude": -47.06443,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "WILIAM ALBERTO DE SOUZA SOUZA",
+   "Doctor Code": "53-CRM-5881",
+   "Specialty": "CIRURGIA",
+   "Doctor Telephone": "+55 (61) 81441346",
+   "Latitude": -22.90917,
+   "Longitude": -47.06444,
+   "Rating": 4
+ },
+ {
+   "Doctor Name": "JOSE ALVES DOS SANTOS",
+   "Doctor Code": "53-CRM-3330",
+   "Specialty": "NEUROLOGIA",
+   "Doctor Telephone": "+55 (61) 81441347",
+   "Latitude": -22.90918,
+   "Longitude": -47.06445,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "PAULO JONATHAN ASAIAG",
+   "Doctor Code": "53-CRM-27027",
+   "Specialty": "CLINICO GERAL",
+   "Doctor Telephone": "+55 (61) 81441348",
+   "Latitude": -22.90919,
+   "Longitude": -47.06446,
+   "Rating": 2
+ },
+ {
+   "Doctor Name": "ANA CAROLINA DESERTO DA SOUZA",
+   "Doctor Code": "53-CRM-19343",
+   "Specialty": "ENDOCRINOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441350",
+   "Latitude": -22.9092,
+   "Longitude": -47.06447,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "GUILHERME MEDEIROS",
+   "Doctor Code": "53-CRM-24230",
+   "Specialty": "ENDOCRINOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441351",
+   "Latitude": -22.90921,
+   "Longitude": -47.06448,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "IMAR CRISOGNO FERNANDES",
+   "Doctor Code": "RJ-CRM-4234",
+   "Specialty": "DERMATOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441352",
+   "Latitude": -22.90922,
+   "Longitude": -47.06449,
+   "Rating": 4
+ },
+ {
+   "Doctor Name": "HELOA JUNQUEIRA CARVALHO",
+   "Doctor Code": "53-CRM-22114",
+   "Specialty": "DERMATOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441353",
+   "Latitude": -22.90923,
+   "Longitude": -47.0645,
+   "Rating": 2
+ },
+ {
+   "Doctor Name": "THAIS SOUZA CUNHA",
+   "Doctor Code": "53-CRM-23060",
+   "Specialty": "NEUROLOGIA",
+   "Doctor Telephone": "+55 (61) 81441354",
+   "Latitude": -22.90924,
+   "Longitude": -47.06451,
+   "Rating": 2
+ },
+ {
+   "Doctor Name": "BRUNO AMAURI LOWE JUNIOR",
+   "Doctor Code": "53-CRM-21825",
+   "Specialty": "NEUROLOGIA",
+   "Doctor Telephone": "+55 (61) 81441358",
+   "Latitude": -22.90925,
+   "Longitude": -47.06452,
+   "Rating": 4
+ },
+ {
+   "Doctor Name": "LEONARDO SOUSA RAMOS",
+   "Doctor Code": "53-CRM-13704",
+   "Specialty": "DERMATOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441361",
+   "Latitude": -22.90926,
+   "Longitude": -47.06453,
+   "Rating": 2
+ },
+ {
+   "Doctor Name": "DILMA LUCIA LOPES DE ALBUQUERQ",
+   "Doctor Code": "53-CRM-8231",
+   "Specialty": "NEUROLOGIA",
+   "Doctor Telephone": "+55 (61) 81441362",
+   "Latitude": -22.90927,
+   "Longitude": -47.06454,
+   "Rating": 2
+ },
+ {
+   "Doctor Name": "FABIANO GIRADE CORREA",
+   "Doctor Code": "53-CRM-13062",
+   "Specialty": "NEUROLOGIA",
+   "Doctor Telephone": "+55 (61) 81441363",
+   "Latitude": -22.90928,
+   "Longitude": -47.06455,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "LUDMILA NOGUEIRA CRUZ",
+   "Doctor Code": "53-CRM-16241",
+   "Specialty": "PEDIATRIA",
+   "Doctor Telephone": "+55 (61) 81441365",
+   "Latitude": -22.90929,
+   "Longitude": -47.06456,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "RAISSA BARROS MOTA",
+   "Doctor Code": "53-CRM-18496",
+   "Specialty": "CARDIOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441366",
+   "Latitude": -22.9093,
+   "Longitude": -47.06457,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "PATRICK SOUZA DAMASCENO",
+   "Doctor Code": "53-CRM-18780",
+   "Specialty": "NEUROLOGIA",
+   "Doctor Telephone": "+55 (61) 81441367",
+   "Latitude": -22.90931,
+   "Longitude": -47.06458,
+   "Rating": 2
+ },
+ {
+   "Doctor Name": "LUIZ ANTONIO DE ALMEIDA E SILV",
+   "Doctor Code": "53-CRM-6638",
+   "Specialty": "PEDIATRIA",
+   "Doctor Telephone": "+55 (61) 81441368",
+   "Latitude": -22.90932,
+   "Longitude": -47.06459,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "ROBERTA BARROS ARAUJO SANTOS",
+   "Doctor Code": "53-CRM-17073",
+   "Specialty": "CARDIOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441369",
+   "Latitude": -22.90933,
+   "Longitude": -47.0646,
+   "Rating": 2
+ },
+ {
+   "Doctor Name": "GINA ELIANE MENEZES HAASE",
+   "Doctor Code": "53-CRM-12468",
+   "Specialty": "ENDOCRINOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441372",
+   "Latitude": -22.90934,
+   "Longitude": -47.06461,
+   "Rating": 2
+ },
+ {
+   "Doctor Name": "THIAGO PEREIRA LOURES",
+   "Doctor Code": "53-CRM-19038",
+   "Specialty": "CIRURGIA",
+   "Doctor Telephone": "+55 (61) 81441373",
+   "Latitude": -22.90935,
+   "Longitude": -47.06462,
+   "Rating": 4
+ },
+ {
+   "Doctor Name": "MARIO JONATHAN BIILL PRIMO",
+   "Doctor Code": "53-CRM-19314",
+   "Specialty": "ENDOCRINOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441374",
+   "Latitude": -22.90936,
+   "Longitude": -47.06463,
+   "Rating": 4
+ },
+ {
+   "Doctor Name": "JO�O GRANJA PONTES",
+   "Doctor Code": "53-CRM-2698",
+   "Specialty": "CIRURGIA",
+   "Doctor Telephone": "+55 (61) 81441375",
+   "Latitude": -22.90937,
+   "Longitude": -47.06464,
+   "Rating": 2
+ },
+ {
+   "Doctor Name": "WILIAM VIEIRA NASCIMENTO",
+   "Doctor Code": "53-CRM-14190",
+   "Specialty": "CARDIOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441379",
+   "Latitude": -22.90938,
+   "Longitude": -47.06465,
+   "Rating": 4
+ },
+ {
+   "Doctor Name": "ANDREA C.L. BARRADO LEAO",
+   "Doctor Code": "53-CRM-22733",
+   "Specialty": "CIRURGIA",
+   "Doctor Telephone": "+55 (61) 81441380",
+   "Latitude": -22.90939,
+   "Longitude": -47.06466,
+   "Rating": 4
+ },
+ {
+   "Doctor Name": "VAGNER VINICIOS FERREIRA",
+   "Doctor Code": "RJ-CRM-22413",
+   "Specialty": "ENDOCRINOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441381",
+   "Latitude": -22.9094,
+   "Longitude": -47.06467,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "JOAO JO�O ALVES",
+   "Doctor Code": "53-CRM-12109",
+   "Specialty": "CLINICO GERAL",
+   "Doctor Telephone": "+55 (61) 81441382",
+   "Latitude": -22.90941,
+   "Longitude": -47.06468,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "NEYLA BEATRIZ COSTA ANDRADE",
+   "Doctor Code": "RJ-CRM-19888",
+   "Specialty": "ENDOCRINOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441384",
+   "Latitude": -22.90942,
+   "Longitude": -47.06469,
+   "Rating": 4
+ },
+ {
+   "Doctor Name": "VICTOR LUSTOSA RODRIGUES",
+   "Doctor Code": "53-CRM-24111",
+   "Specialty": "NEUROLOGIA",
+   "Doctor Telephone": "+55 (61) 81441385",
+   "Latitude": -22.90943,
+   "Longitude": -47.0647,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "FREED DA ANUNCIACAO",
+   "Doctor Code": "53-CRM-16406",
+   "Specialty": "NEUROLOGIA",
+   "Doctor Telephone": "+55 (61) 81441386",
+   "Latitude": -22.90944,
+   "Longitude": -47.06471,
+   "Rating": 2
+ },
+ {
+   "Doctor Name": "ANA APARECIDA DE ASSIS",
+   "Doctor Code": "53-CRM-4711",
+   "Specialty": "CLINICO GERAL",
+   "Doctor Telephone": "+55 (61) 81441388",
+   "Latitude": -22.90945,
+   "Longitude": -47.06472,
+   "Rating": 2
+ },
+ {
+   "Doctor Name": "HEDER MURARI BORBA",
+   "Doctor Code": "53-CRM-14240",
+   "Specialty": "CARDIOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441389",
+   "Latitude": -22.90946,
+   "Longitude": -47.06473,
+   "Rating": 2
+ },
+ {
+   "Doctor Name": "MARILIA NASCIMENTO ESPINDOLA",
+   "Doctor Code": "53-CRM-19928",
+   "Specialty": "CIRURGIA",
+   "Doctor Telephone": "+55 (61) 81441390",
+   "Latitude": -22.90947,
+   "Longitude": -47.06474,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "VICTOR DITZEL MAIA",
+   "Doctor Code": "53-CRM-22907",
+   "Specialty": "NEUROLOGIA",
+   "Doctor Telephone": "+55 (61) 81441391",
+   "Latitude": -22.90948,
+   "Longitude": -47.06475,
+   "Rating": 4
+ },
+ {
+   "Doctor Name": "DHYEGO GOMIDE SANDOVAL",
+   "Doctor Code": "53-CRM-21486",
+   "Specialty": "NEUROLOGIA",
+   "Doctor Telephone": "+55 (61) 81441392",
+   "Latitude": -22.90949,
+   "Longitude": -47.06476,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "BIARA ARAUJO ANASTACIO ARRUDA",
+   "Doctor Code": "53-CRM-15757",
+   "Specialty": "CARDIOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441393",
+   "Latitude": -22.9095,
+   "Longitude": -47.06477,
+   "Rating": 2
+ },
+ {
+   "Doctor Name": "ANTONIO CLAUDENIR SOUZA CALDAS",
+   "Doctor Code": "53-CRM-6648",
+   "Specialty": "CLINICO GERAL",
+   "Doctor Telephone": "+55 (61) 81441394",
+   "Latitude": -22.90951,
+   "Longitude": -47.06478,
+   "Rating": 1
+ },
+ {
+   "Doctor Name": "ANGELA BEATRIZ PIMENTEL ZAPPAL",
+   "Doctor Code": "53-CRM-6113",
+   "Specialty": "NEUROLOGIA",
+   "Doctor Telephone": "+55 (61) 81441399",
+   "Latitude": -22.90952,
+   "Longitude": -47.06479,
+   "Rating": 2
+ },
+ {
+   "Doctor Name": "ELIANE ALVES DE LIMA",
+   "Doctor Code": "53-CRM-4651",
+   "Specialty": "DERMATOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441401",
+   "Latitude": -22.90953,
+   "Longitude": -47.0648,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "GIULIANO LUIS DA SOUZA JUL",
+   "Doctor Code": "53-CRM-8761",
+   "Specialty": "CARDIOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441403",
+   "Latitude": -22.90954,
+   "Longitude": -47.06481,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "JAB SOUSA DA SILVEIRA",
+   "Doctor Code": "53-CRM-7303",
+   "Specialty": "CIRURGIA",
+   "Doctor Telephone": "+55 (61) 81441406",
+   "Latitude": -22.90955,
+   "Longitude": -47.06482,
+   "Rating": 2
+ },
+ {
+   "Doctor Name": "MARGARITA CORONEL BAZZANO",
+   "Doctor Code": "53-CRM-12513",
+   "Specialty": "CLINICO GERAL",
+   "Doctor Telephone": "+55 (61) 81441407",
+   "Latitude": -22.90956,
+   "Longitude": -47.06483,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "FABIO CARREIRA",
+   "Doctor Code": "53-CRM-10207",
+   "Specialty": "NEUROLOGIA",
+   "Doctor Telephone": "+55 (61) 81441409",
+   "Latitude": -22.90957,
+   "Longitude": -47.06484,
+   "Rating": 2
+ },
+ {
+   "Doctor Name": "MARCOS ROGERIO ELISEI",
+   "Doctor Code": "53-CRM-11785",
+   "Specialty": "DERMATOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441410",
+   "Latitude": -22.90958,
+   "Longitude": -47.06485,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "JO�O CHAVES MACHADO",
+   "Doctor Code": "53-CRM-10749",
+   "Specialty": "NEUROLOGIA",
+   "Doctor Telephone": "+55 (61) 81441411",
+   "Latitude": -22.90959,
+   "Longitude": -47.06486,
+   "Rating": 4
+ },
+ {
+   "Doctor Name": "LUIZ ANTONIO RODRIGUES AGUILA",
+   "Doctor Code": "53-CRM-4051",
+   "Specialty": "CIRURGIA",
+   "Doctor Telephone": "+55 (61) 81441414",
+   "Latitude": -22.9096,
+   "Longitude": -47.06487,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "CELEDOME P DOS SANTOS",
+   "Doctor Code": "53-CRM-24176",
+   "Specialty": "CARDIOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441418",
+   "Latitude": -22.90961,
+   "Longitude": -47.06488,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "CALIL SALOMAO ABUD NETO",
+   "Doctor Code": "53-CRM-14126",
+   "Specialty": "DERMATOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441425",
+   "Latitude": -22.90962,
+   "Longitude": -47.06489,
+   "Rating": 4
+ },
+ {
+   "Doctor Name": "JOICE CRISTINA DALTOE INGLEZ",
+   "Doctor Code": "53-CRM-16125",
+   "Specialty": "NEUROLOGIA",
+   "Doctor Telephone": "+55 (61) 81441426",
+   "Latitude": -22.90963,
+   "Longitude": -47.0649,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "HELEN MAYUMI NAKAMURA",
+   "Doctor Code": "53-CRM-21437",
+   "Specialty": "ENDOCRINOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441427",
+   "Latitude": -22.90964,
+   "Longitude": -47.06491,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "THALLES C. NASCIMENTO",
+   "Doctor Code": "53-CRM-24086",
+   "Specialty": "CIRURGIA",
+   "Doctor Telephone": "+55 (61) 81441428",
+   "Latitude": -22.90965,
+   "Longitude": -47.06492,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "WALTER EMANOEL DE PAULA",
+   "Doctor Code": "53-CRM-10240",
+   "Specialty": "NEUROLOGIA",
+   "Doctor Telephone": "+55 (61) 81441429",
+   "Latitude": -22.90966,
+   "Longitude": -47.06493,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "ALEXANDRE AZEVEDO CUNHA",
+   "Doctor Code": "53-CRM-14849",
+   "Specialty": "CARDIOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441430",
+   "Latitude": -22.90967,
+   "Longitude": -47.06494,
+   "Rating": 2
+ },
+ {
+   "Doctor Name": "SARAH LIZ LAGES MACHADO",
+   "Doctor Code": "53-CRM-21077",
+   "Specialty": "NEUROLOGIA",
+   "Doctor Telephone": "+55 (61) 81441435",
+   "Latitude": -22.90968,
+   "Longitude": -47.06495,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "KAROLINE P COSTA",
+   "Doctor Code": "53-CRM-23187",
+   "Specialty": "DERMATOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441437",
+   "Latitude": -22.90969,
+   "Longitude": -47.06496,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "DEBORA DE SOUSA RIBEIRO COSTA",
+   "Doctor Code": "53-CRM-20709",
+   "Specialty": "CLINICO GERAL",
+   "Doctor Telephone": "+55 (61) 81441442",
+   "Latitude": -22.9097,
+   "Longitude": -47.06497,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "DANIELA SALLES M. SANTOS",
+   "Doctor Code": "53-CRM-9604",
+   "Specialty": "PEDIATRIA",
+   "Doctor Telephone": "+55 (61) 81441443",
+   "Latitude": -22.90971,
+   "Longitude": -47.06498,
+   "Rating": 2
+ },
+ {
+   "Doctor Name": "ALEXANDRE ALMEIDA COSTA",
+   "Doctor Code": "53-CRM-11947",
+   "Specialty": "DERMATOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441444",
+   "Latitude": -22.90972,
+   "Longitude": -47.06499,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "TARQUINO ERASTIDES GAVILANES S",
+   "Doctor Code": "53-CRM-9987",
+   "Specialty": "ENDOCRINOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441445",
+   "Latitude": -22.90973,
+   "Longitude": -47.065,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "NOEME ANA ACIOLI OSTERNE COE",
+   "Doctor Code": "53-CRM-13309",
+   "Specialty": "CIRURGIA",
+   "Doctor Telephone": "+55 (61) 81441446",
+   "Latitude": -22.90974,
+   "Longitude": -47.06501,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "LIMIRIA ETHIENE CARNEIRO DA SI",
+   "Doctor Code": "53-CRM-21350",
+   "Specialty": "NEUROLOGIA",
+   "Doctor Telephone": "+55 (61) 81441447",
+   "Latitude": -22.90975,
+   "Longitude": -47.06502,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "ANDRE ALBUQUERQUE AQUINO",
+   "Doctor Code": "53-CRM-23563",
+   "Specialty": "NEUROLOGIA",
+   "Doctor Telephone": "+55 (61) 81441448",
+   "Latitude": -22.90976,
+   "Longitude": -47.06503,
+   "Rating": 4
+ },
+ {
+   "Doctor Name": "LEIDIANE ALVES SANTANA",
+   "Doctor Code": "RJ-CRM-20131",
+   "Specialty": "ENDOCRINOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441449",
+   "Latitude": -22.90977,
+   "Longitude": -47.06504,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "JONATHAN DE CAMPOS MORAIS",
+   "Doctor Code": "53-CRM-17115",
+   "Specialty": "ENDOCRINOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441450",
+   "Latitude": -22.90978,
+   "Longitude": -47.06505,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "LUIS MARTINS ALVES",
+   "Doctor Code": "53-CRM-15669",
+   "Specialty": "NEUROLOGIA",
+   "Doctor Telephone": "+55 (61) 81441451",
+   "Latitude": -22.90979,
+   "Longitude": -47.06506,
+   "Rating": 2
+ },
+ {
+   "Doctor Name": "CAROLINA LIMA SIMIONATTO",
+   "Doctor Code": "53-CRM-18003",
+   "Specialty": "CARDIOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441452",
+   "Latitude": -22.9098,
+   "Longitude": -47.06507,
+   "Rating": 4
+ },
+ {
+   "Doctor Name": "RAIMUNDO NONATO SOUSA",
+   "Doctor Code": "53-CRM-3657",
+   "Specialty": "CARDIOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441454",
+   "Latitude": -22.90981,
+   "Longitude": -47.06508,
+   "Rating": 4
+ },
+ {
+   "Doctor Name": "WILIAM ROBERTO BIOJONE",
+   "Doctor Code": "53-CRM-15222",
+   "Specialty": "CARDIOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441455",
+   "Latitude": -22.90982,
+   "Longitude": -47.06509,
+   "Rating": 4
+ },
+ {
+   "Doctor Name": "DEBORAH S. BATISTA",
+   "Doctor Code": "53-CRM-24713",
+   "Specialty": "CIRURGIA",
+   "Doctor Telephone": "+55 (61) 81441456",
+   "Latitude": -22.90983,
+   "Longitude": -47.0651,
+   "Rating": 4
+ },
+ {
+   "Doctor Name": "ANDRESSA SOUZA JUNQUEIRA",
+   "Doctor Code": "53-CRM-20264",
+   "Specialty": "DERMATOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441461",
+   "Latitude": -22.90984,
+   "Longitude": -47.06511,
+   "Rating": 2
+ },
+ {
+   "Doctor Name": "LEONARDO SPAGNOL ABRAHAM",
+   "Doctor Code": "53-CRM-18513",
+   "Specialty": "CARDIOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441462",
+   "Latitude": -22.90985,
+   "Longitude": -47.06512,
+   "Rating": 2
+ },
+ {
+   "Doctor Name": "RITA DE AGUIAR CARAZZA",
+   "Doctor Code": "53-CRM-20302",
+   "Specialty": "CARDIOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441465",
+   "Latitude": -22.90986,
+   "Longitude": -47.06513,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "ALDO PEREIRA NETO",
+   "Doctor Code": "53-CRM-7076",
+   "Specialty": "CLINICO GERAL",
+   "Doctor Telephone": "+55 (61) 81441466",
+   "Latitude": -22.90987,
+   "Longitude": -47.06514,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "CLAUDIA MAGGY FAULSTICH ALVES",
+   "Doctor Code": "53-CRM-7773",
+   "Specialty": "DERMATOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441470",
+   "Latitude": -22.90988,
+   "Longitude": -47.06515,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "MARCUS VINICIUS JACOME NORONHA",
+   "Doctor Code": "53-CRM-13203",
+   "Specialty": "ENDOCRINOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441471",
+   "Latitude": -22.90989,
+   "Longitude": -47.06516,
+   "Rating": 2
+ },
+ {
+   "Doctor Name": "PRISCILLA DE F. MOREIRA SAMPAI",
+   "Doctor Code": "53-CRM-15472",
+   "Specialty": "CLINICO GERAL",
+   "Doctor Telephone": "+55 (61) 81441472",
+   "Latitude": -22.9099,
+   "Longitude": -47.06517,
+   "Rating": 2
+ },
+ {
+   "Doctor Name": "ELYSE CARVALHO BORGES DOS S FI",
+   "Doctor Code": "53-CRM-15027",
+   "Specialty": "NEUROLOGIA",
+   "Doctor Telephone": "+55 (61) 81441473",
+   "Latitude": -22.90991,
+   "Longitude": -47.06518,
+   "Rating": 2
+ },
+ {
+   "Doctor Name": "MANOEL AUGUSTO R ALVES",
+   "Doctor Code": "53-CRM-16220",
+   "Specialty": "CIRURGIA",
+   "Doctor Telephone": "+55 (61) 81441474",
+   "Latitude": -22.90992,
+   "Longitude": -47.06519,
+   "Rating": 4
+ },
+ {
+   "Doctor Name": "NAYARA M CABRAL",
+   "Doctor Code": "53-CRM-23200",
+   "Specialty": "PEDIATRIA",
+   "Doctor Telephone": "+55 (61) 81441475",
+   "Latitude": -22.90993,
+   "Longitude": -47.0652,
+   "Rating": 4
+ },
+ {
+   "Doctor Name": "KYARA LUIZA HOLANDA DE BRITO",
+   "Doctor Code": "53-CRM-21690",
+   "Specialty": "ENDOCRINOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441476",
+   "Latitude": -22.90994,
+   "Longitude": -47.06521,
+   "Rating": 2
+ },
+ {
+   "Doctor Name": "WIVIANNE DOS SANTOS COSTA",
+   "Doctor Code": "RJ-CRM-12261",
+   "Specialty": "DERMATOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441478",
+   "Latitude": -22.90995,
+   "Longitude": -47.06522,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "JONATHAN JOSE ALVES NOGUEIRA",
+   "Doctor Code": "53-CRM-9736",
+   "Specialty": "NEUROLOGIA",
+   "Doctor Telephone": "+55 (61) 81441482",
+   "Latitude": -22.90996,
+   "Longitude": -47.06523,
+   "Rating": 4
+ },
+ {
+   "Doctor Name": "LAZARO FERNANDES DE MIRANDA",
+   "Doctor Code": "53-CRM-3099",
+   "Specialty": "NEUROLOGIA",
+   "Doctor Telephone": "+55 (61) 81441483",
+   "Latitude": -22.90997,
+   "Longitude": -47.06524,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "DRYELLI DA SOUZA ALCANTARA",
+   "Doctor Code": "53-CRM-20893",
+   "Specialty": "CARDIOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441489",
+   "Latitude": -22.90998,
+   "Longitude": -47.06525,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "ANA RACHEL TEIXEIRA BATISTA",
+   "Doctor Code": "53-CRM-13506",
+   "Specialty": "CARDIOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441490",
+   "Latitude": -22.90999,
+   "Longitude": -47.06526,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "VICTOR HUGO MATTEUCCI ARAUJO",
+   "Doctor Code": "53-CRM-24127",
+   "Specialty": "CIRURGIA",
+   "Doctor Telephone": "+55 (61) 81441491",
+   "Latitude": -22.91,
+   "Longitude": -47.06527,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "CLINICA MEDICA",
+   "Doctor Code": "53-CRM-2",
+   "Specialty": "NEUROLOGIA",
+   "Doctor Telephone": "+55 (61) 81441495",
+   "Latitude": -22.91001,
+   "Longitude": -47.06528,
+   "Rating": 4
+ },
+ {
+   "Doctor Name": "GABRIELA LIMA VALENTE COELHO",
+   "Doctor Code": "53-CRM-21570",
+   "Specialty": "DERMATOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441498",
+   "Latitude": -22.91002,
+   "Longitude": -47.06529,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "JUAN FLAVIO BRESANI AZEVEDO",
+   "Doctor Code": "53-CRM-2460",
+   "Specialty": "NEUROLOGIA",
+   "Doctor Telephone": "+55 (61) 81441500",
+   "Latitude": -22.91003,
+   "Longitude": -47.0653,
+   "Rating": 4
+ },
+ {
+   "Doctor Name": "VIRGINIA MASSOTE PAULINELLI",
+   "Doctor Code": "53-CRM-12822",
+   "Specialty": "CARDIOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441504",
+   "Latitude": -22.91004,
+   "Longitude": -47.06531,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "RAISSA GAVINHO SANTOS",
+   "Doctor Code": "53-CRM-21815",
+   "Specialty": "CIRURGIA",
+   "Doctor Telephone": "+55 (61) 81441505",
+   "Latitude": -22.91005,
+   "Longitude": -47.06532,
+   "Rating": 2
+ },
+ {
+   "Doctor Name": "TATIANA EVARISTO CARDOSO DE SO",
+   "Doctor Code": "53-CRM-13313",
+   "Specialty": "ENDOCRINOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441508",
+   "Latitude": -22.91006,
+   "Longitude": -47.06533,
+   "Rating": 5
+ },
+ {
+   "Doctor Name": "WILIAM BIANKINI RODRIGUES",
+   "Doctor Code": "53-CRM-14590",
+   "Specialty": "CARDIOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441509",
+   "Latitude": -22.91007,
+   "Longitude": -47.06534,
+   "Rating": 4
+ },
+ {
+   "Doctor Name": "MARCUS VINICIUS NAVES CARNEIRO",
+   "Doctor Code": "53-CRM-14975",
+   "Specialty": "CIRURGIA",
+   "Doctor Telephone": "+55 (61) 81441511",
+   "Latitude": -22.91008,
+   "Longitude": -47.06535,
+   "Rating": 2
+ },
+ {
+   "Doctor Name": "MARCOS SANDOVAL MEDEIROS DE FR",
+   "Doctor Code": "RJ-CRM-7301",
+   "Specialty": "CARDIOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441514",
+   "Latitude": -22.91009,
+   "Longitude": -47.06536,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "FABRICIO RIGONATO DA SOUZA",
+   "Doctor Code": "53-CRM-11643",
+   "Specialty": "NEUROLOGIA",
+   "Doctor Telephone": "+55 (61) 81441516",
+   "Latitude": -22.9101,
+   "Longitude": -47.06537,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "THAIS MELO FRANCO DE OLIVEIRA",
+   "Doctor Code": "53-CRM-18756",
+   "Specialty": "DERMATOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441517",
+   "Latitude": -22.91011,
+   "Longitude": -47.06538,
+   "Rating": 4
+ },
+ {
+   "Doctor Name": "MANOEL AUGUSTO RIBEIRO ALVES",
+   "Doctor Code": "RJ-CRM-16220",
+   "Specialty": "ENDOCRINOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441518",
+   "Latitude": -22.91012,
+   "Longitude": -47.06539,
+   "Rating": 2
+ },
+ {
+   "Doctor Name": "ANTONIO FERREIRA DE CAMPOS TOR",
+   "Doctor Code": "53-CRM-4698",
+   "Specialty": "DERMATOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441522",
+   "Latitude": -22.91013,
+   "Longitude": -47.0654,
+   "Rating": 2
+ },
+ {
+   "Doctor Name": "URSULA SALES PADILHA",
+   "Doctor Code": "53-CRM-23233",
+   "Specialty": "NEUROLOGIA",
+   "Doctor Telephone": "+55 (61) 81441523",
+   "Latitude": -22.91014,
+   "Longitude": -47.06541,
+   "Rating": 2
+ },
+ {
+   "Doctor Name": "LYANA OLIVEIRA DE ALMEIDA",
+   "Doctor Code": "53-CRM-19523",
+   "Specialty": "CIRURGIA",
+   "Doctor Telephone": "+55 (61) 81441524",
+   "Latitude": -22.91015,
+   "Longitude": -47.06542,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "ANA PAULA RODRIGUES BARRETO DO",
+   "Doctor Code": "53-CRM-19666",
+   "Specialty": "DERMATOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441525",
+   "Latitude": -22.91016,
+   "Longitude": -47.06543,
+   "Rating": 2
+ },
+ {
+   "Doctor Name": "RAQUEL MARBURG TEIXEIRA",
+   "Doctor Code": "35-CRM-14665",
+   "Specialty": "CLINICO GERAL",
+   "Doctor Telephone": "+55 (61) 81441526",
+   "Latitude": -22.91017,
+   "Longitude": -47.06544,
+   "Rating": 2
+ },
+ {
+   "Doctor Name": "MARCELO PEREIRA LODONIO",
+   "Doctor Code": "53-CRM-10184",
+   "Specialty": "CLINICO GERAL",
+   "Doctor Telephone": "+55 (61) 81441527",
+   "Latitude": -22.91018,
+   "Longitude": -47.06545,
+   "Rating": 2
+ },
+ {
+   "Doctor Name": "DENIZARD ALEXANDRE FERREIRA",
+   "Doctor Code": "53-CRM-4242",
+   "Specialty": "CARDIOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441528",
+   "Latitude": -22.91019,
+   "Longitude": -47.06546,
+   "Rating": 4
+ },
+ {
+   "Doctor Name": "GLAYSON SOARES",
+   "Doctor Code": "53-CRM-24181",
+   "Specialty": "CIRURGIA",
+   "Doctor Telephone": "+55 (61) 81441529",
+   "Latitude": -22.9102,
+   "Longitude": -47.06547,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "JEAN NEWTON LIMA COSTA",
+   "Doctor Code": "53-CRM-8891",
+   "Specialty": "NEUROLOGIA",
+   "Doctor Telephone": "+55 (61) 81441531",
+   "Latitude": -22.91021,
+   "Longitude": -47.06548,
+   "Rating": 2
+ },
+ {
+   "Doctor Name": "GEOVANNA LEA BARBOSA DE MENDON",
+   "Doctor Code": "53-CRM-7911",
+   "Specialty": "CIRURGIA",
+   "Doctor Telephone": "+55 (61) 81441534",
+   "Latitude": -22.91022,
+   "Longitude": -47.06549,
+   "Rating": 4
+ },
+ {
+   "Doctor Name": "THALLES AUGUSTO DOS S. PORFIRI",
+   "Doctor Code": "53-CRM-24622",
+   "Specialty": "CARDIOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441537",
+   "Latitude": -22.91023,
+   "Longitude": -47.0655,
+   "Rating": 2
+ },
+ {
+   "Doctor Name": "CAMILLA GATTO SABINO",
+   "Doctor Code": "53-CRM-19651",
+   "Specialty": "CARDIOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441538",
+   "Latitude": -22.91024,
+   "Longitude": -47.06551,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "DANIELLE COSTA AQUINO",
+   "Doctor Code": "53-CRM-15825",
+   "Specialty": "CIRURGIA",
+   "Doctor Telephone": "+55 (61) 81441540",
+   "Latitude": -22.91025,
+   "Longitude": -47.06552,
+   "Rating": 4
+ },
+ {
+   "Doctor Name": "RAFAELA STUDART DA CUNHA FROTA",
+   "Doctor Code": "53-CRM-19349",
+   "Specialty": "NEUROLOGIA",
+   "Doctor Telephone": "+55 (61) 81441546",
+   "Latitude": -22.91026,
+   "Longitude": -47.06553,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "KARITAS RIOS LIMA MATSUNAGA",
+   "Doctor Code": "53-CRM-17117",
+   "Specialty": "CIRURGIA",
+   "Doctor Telephone": "+55 (61) 81441547",
+   "Latitude": -22.91027,
+   "Longitude": -47.06554,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "RAISSA BARROS MOTA",
+   "Doctor Code": "RJ-CRM-18496",
+   "Specialty": "ENDOCRINOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441548",
+   "Latitude": -22.91028,
+   "Longitude": -47.06555,
+   "Rating": 4
+ },
+ {
+   "Doctor Name": "ANA HENRIQUETA CAMAROTTI COS",
+   "Doctor Code": "53-CRM-3816",
+   "Specialty": "CARDIOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441550",
+   "Latitude": -22.91029,
+   "Longitude": -47.06556,
+   "Rating": 2
+ },
+ {
+   "Doctor Name": "WILLIAN CASAGRANDE",
+   "Doctor Code": "53-CRM-14868",
+   "Specialty": "PEDIATRIA",
+   "Doctor Telephone": "+55 (61) 81441553",
+   "Latitude": -22.9103,
+   "Longitude": -47.06557,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "INGRID DE OLIVEIRA HAUBERT",
+   "Doctor Code": "53-CRM-17209",
+   "Specialty": "CARDIOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441557",
+   "Latitude": -22.91031,
+   "Longitude": -47.06558,
+   "Rating": 2
+ },
+ {
+   "Doctor Name": "SYLVIA ANA OLIVEIRA DA CUNHA",
+   "Doctor Code": "53-CRM-4469",
+   "Specialty": "CIRURGIA",
+   "Doctor Telephone": "+55 (61) 81441558",
+   "Latitude": -22.91032,
+   "Longitude": -47.06559,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "RAPHAEL DE SOUZA PIRES",
+   "Doctor Code": "53-CRM-18554",
+   "Specialty": "NEUROLOGIA",
+   "Doctor Telephone": "+55 (61) 81441560",
+   "Latitude": -22.91033,
+   "Longitude": -47.0656,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "BRUNO RICHELY SOARES",
+   "Doctor Code": "53-CRM-24221",
+   "Specialty": "CLINICO GERAL",
+   "Doctor Telephone": "+55 (61) 81441561",
+   "Latitude": -22.91034,
+   "Longitude": -47.06561,
+   "Rating": 4
+ },
+ {
+   "Doctor Name": "MANOEL SOLANGE FONTES TELES",
+   "Doctor Code": "53-CRM-10089",
+   "Specialty": "ENDOCRINOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441562",
+   "Latitude": -22.91035,
+   "Longitude": -47.06562,
+   "Rating": 4
+ },
+ {
+   "Doctor Name": "TRISTAO MAURICIO DE AQUINO FIL",
+   "Doctor Code": "53-CRM-24573",
+   "Specialty": "NEUROLOGIA",
+   "Doctor Telephone": "+55 (61) 81441565",
+   "Latitude": -22.91036,
+   "Longitude": -47.06563,
+   "Rating": 4
+ },
+ {
+   "Doctor Name": "ISABELLA DIAS GONCALVES",
+   "Doctor Code": "53-CRM-19755",
+   "Specialty": "NEUROLOGIA",
+   "Doctor Telephone": "+55 (61) 81441566",
+   "Latitude": -22.91037,
+   "Longitude": -47.06564,
+   "Rating": 2
+ },
+ {
+   "Doctor Name": "RAPHAEL DE CARVALHO DANTONIO",
+   "Doctor Code": "53-CRM-22073",
+   "Specialty": "NEUROLOGIA",
+   "Doctor Telephone": "+55 (61) 81441567",
+   "Latitude": -22.91038,
+   "Longitude": -47.06565,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "ANDRE DA CUNHA CANTO NERY FE",
+   "Doctor Code": "53-CRM-16517",
+   "Specialty": "NEUROLOGIA",
+   "Doctor Telephone": "+55 (61) 81441568",
+   "Latitude": -22.91039,
+   "Longitude": -47.06566,
+   "Rating": 2
+ },
+ {
+   "Doctor Name": "RAQUEL MARBURG TEIXEIRA",
+   "Doctor Code": "53-CRM-14665",
+   "Specialty": "CLINICO GERAL",
+   "Doctor Telephone": "+55 (61) 81441569",
+   "Latitude": -22.9104,
+   "Longitude": -47.06567,
+   "Rating": 4
+ },
+ {
+   "Doctor Name": "SANDRA REGINA LIMA CARNEIRO",
+   "Doctor Code": "53-CRM-10616",
+   "Specialty": "NEUROLOGIA",
+   "Doctor Telephone": "+55 (61) 81441571",
+   "Latitude": -22.91041,
+   "Longitude": -47.06568,
+   "Rating": 2
+ },
+ {
+   "Doctor Name": "EDINALDO GONCALVES DE ALMEIDA",
+   "Doctor Code": "53-CRM-5922",
+   "Specialty": "CLINICO GERAL",
+   "Doctor Telephone": "+55 (61) 81441572",
+   "Latitude": -22.91042,
+   "Longitude": -47.06569,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "LUANA NUNES GARCIA",
+   "Doctor Code": "53-CRM-21685",
+   "Specialty": "CARDIOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441573",
+   "Latitude": -22.91043,
+   "Longitude": -47.0657,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "TANIA RENATA LOPES FALCAO",
+   "Doctor Code": "53-CRM-16744",
+   "Specialty": "ENDOCRINOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441576",
+   "Latitude": -22.91044,
+   "Longitude": -47.06571,
+   "Rating": 4
+ },
+ {
+   "Doctor Name": "CLARISSA CARVALHO DE A. MOREIR",
+   "Doctor Code": "53-CRM-19180",
+   "Specialty": "CARDIOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441577",
+   "Latitude": -22.91045,
+   "Longitude": -47.06572,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "DANNIELA R CUNHA",
+   "Doctor Code": "53-CRM-23184",
+   "Specialty": "ENDOCRINOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441578",
+   "Latitude": -22.91046,
+   "Longitude": -47.06573,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "JOSE MAURICIO R DE PAIVA",
+   "Doctor Code": "35-CRM-13988",
+   "Specialty": "DERMATOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441579",
+   "Latitude": -22.91047,
+   "Longitude": -47.06574,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "MARCIA MARTHA ARAUJO DE RESEND",
+   "Doctor Code": "53-CRM-6112",
+   "Specialty": "PEDIATRIA",
+   "Doctor Telephone": "+55 (61) 81441580",
+   "Latitude": -22.91048,
+   "Longitude": -47.06575,
+   "Rating": 4
+ },
+ {
+   "Doctor Name": "LUIS SALES SANTOS",
+   "Doctor Code": "53-CRM-8068",
+   "Specialty": "CLINICO GERAL",
+   "Doctor Telephone": "+55 (61) 81441581",
+   "Latitude": -22.91049,
+   "Longitude": -47.06576,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "RENATO ALVES TEIXEIRA LIMA",
+   "Doctor Code": "53-CRM-11120",
+   "Specialty": "ENDOCRINOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441582",
+   "Latitude": -22.9105,
+   "Longitude": -47.06577,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "LARISSA R L RODRIGUES",
+   "Doctor Code": "53-CRM-24537",
+   "Specialty": "DERMATOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441583",
+   "Latitude": -22.91051,
+   "Longitude": -47.06578,
+   "Rating": 4
+ },
+ {
+   "Doctor Name": "HELLEN CRISTINA DA SOUZA ATAID",
+   "Doctor Code": "53-CRM-21171",
+   "Specialty": "DERMATOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441586",
+   "Latitude": -22.91052,
+   "Longitude": -47.06579,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "THAIS AUGUSTA DA COSTA MARTINS",
+   "Doctor Code": "53-CRM-19232",
+   "Specialty": "NEUROLOGIA",
+   "Doctor Telephone": "+55 (61) 81441589",
+   "Latitude": -22.91053,
+   "Longitude": -47.0658,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "MONIQUE FERNANDES DA SOUZA",
+   "Doctor Code": "53-CRM-17123",
+   "Specialty": "DERMATOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441590",
+   "Latitude": -22.91054,
+   "Longitude": -47.06581,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "KARLA DE BEM ALCANTARA",
+   "Doctor Code": "RJ-CRM-24659",
+   "Specialty": "DERMATOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441591",
+   "Latitude": -22.91055,
+   "Longitude": -47.06582,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "ANDRE LOURO DE OLIVEIRA",
+   "Doctor Code": "53-CRM-20263",
+   "Specialty": "NEUROLOGIA",
+   "Doctor Telephone": "+55 (61) 81441592",
+   "Latitude": -22.91056,
+   "Longitude": -47.06583,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "ALVARO ACHCAR JUNIOR",
+   "Doctor Code": "53-CRM-3612",
+   "Specialty": "NEUROLOGIA",
+   "Doctor Telephone": "+55 (61) 81441593",
+   "Latitude": -22.91057,
+   "Longitude": -47.06584,
+   "Rating": 2
+ },
+ {
+   "Doctor Name": "GABRIELA GOMES DE SOUZA",
+   "Doctor Code": "RJ-CRM-24517",
+   "Specialty": "CIRURGIA",
+   "Doctor Telephone": "+55 (61) 81441594",
+   "Latitude": -22.91058,
+   "Longitude": -47.06585,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "TECIO DE ARAUJO COUTO",
+   "Doctor Code": "53-CRM-9669",
+   "Specialty": "CIRURGIA",
+   "Doctor Telephone": "+55 (61) 81441595",
+   "Latitude": -22.91059,
+   "Longitude": -47.06586,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "CLARISSA CHASTINET DE CARVALHO",
+   "Doctor Code": "53-CRM-16472",
+   "Specialty": "CLINICO GERAL",
+   "Doctor Telephone": "+55 (61) 81441599",
+   "Latitude": -22.9106,
+   "Longitude": -47.06587,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "RENATO MARTINS PEREIRA",
+   "Doctor Code": "53-CRM-15212",
+   "Specialty": "CARDIOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441600",
+   "Latitude": -22.91061,
+   "Longitude": -47.06588,
+   "Rating": 2
+ },
+ {
+   "Doctor Name": "MOHAMMED JAMALALDIN HILAL DARN",
+   "Doctor Code": "53-CRM-16173",
+   "Specialty": "NEUROLOGIA",
+   "Doctor Telephone": "+55 (61) 81441601",
+   "Latitude": -22.91062,
+   "Longitude": -47.06589,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "ARNALDO BOLINJA R. JUNIOR",
+   "Doctor Code": "RJ-CRM-22753",
+   "Specialty": "ENDOCRINOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441604",
+   "Latitude": -22.91063,
+   "Longitude": -47.0659,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "ROGERIO GOMES LIMA",
+   "Doctor Code": "53-CRM-9317",
+   "Specialty": "CLINICO GERAL",
+   "Doctor Telephone": "+55 (61) 81441607",
+   "Latitude": -22.91064,
+   "Longitude": -47.06591,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "MATEUS LEAL ALEXANDRE FERREIRA",
+   "Doctor Code": "53-CRM-23486",
+   "Specialty": "NEUROLOGIA",
+   "Doctor Telephone": "+55 (61) 81441608",
+   "Latitude": -22.91065,
+   "Longitude": -47.06592,
+   "Rating": 4
+ },
+ {
+   "Doctor Name": "ARNALDO BOLINJA",
+   "Doctor Code": "RJ-CRM-22753",
+   "Specialty": "ENDOCRINOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441609",
+   "Latitude": -22.91066,
+   "Longitude": -47.06593,
+   "Rating": 4
+ },
+ {
+   "Doctor Name": "FELIPE RODRIGUES BEZERRA",
+   "Doctor Code": "53-CRM-23510",
+   "Specialty": "NEUROLOGIA",
+   "Doctor Telephone": "+55 (61) 81441614",
+   "Latitude": -22.91067,
+   "Longitude": -47.06594,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "OSORIO LUIS RANGEL DE ALMEIDA",
+   "Doctor Code": "53-CRM-1630",
+   "Specialty": "DERMATOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441616",
+   "Latitude": -22.91068,
+   "Longitude": -47.06595,
+   "Rating": 2
+ },
+ {
+   "Doctor Name": "MEIRE ANNE VIEIRA MOTA",
+   "Doctor Code": "53-CRM-21185",
+   "Specialty": "NEUROLOGIA",
+   "Doctor Telephone": "+55 (61) 81441617",
+   "Latitude": -22.91069,
+   "Longitude": -47.06596,
+   "Rating": 4
+ },
+ {
+   "Doctor Name": "LIDIANE DE FARIA VALVERDE",
+   "Doctor Code": "53-CRM-15923",
+   "Specialty": "DERMATOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441620",
+   "Latitude": -22.9107,
+   "Longitude": -47.06597,
+   "Rating": 4
+ },
+ {
+   "Doctor Name": "JOSE CLAUDIO V VITTENCOURT",
+   "Doctor Code": "53-CRM-23472",
+   "Specialty": "CLINICO GERAL",
+   "Doctor Telephone": "+55 (61) 81441621",
+   "Latitude": -22.91071,
+   "Longitude": -47.06598,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "SABRYNA LUCENA OLIVEIRA",
+   "Doctor Code": "53-CRM-20912",
+   "Specialty": "DERMATOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441622",
+   "Latitude": -22.91072,
+   "Longitude": -47.06599,
+   "Rating": 2
+ },
+ {
+   "Doctor Name": "ANA BEATRIZ SCHMITT SOUZA",
+   "Doctor Code": "53-CRM-19131",
+   "Specialty": "CLINICO GERAL",
+   "Doctor Telephone": "+55 (61) 81441624",
+   "Latitude": -22.91073,
+   "Longitude": -47.066,
+   "Rating": 2
+ },
+ {
+   "Doctor Name": "JOSE ALBERES SOUZA",
+   "Doctor Code": "53-CRM-7903",
+   "Specialty": "CIRURGIA",
+   "Doctor Telephone": "+55 (61) 81441625",
+   "Latitude": -22.91074,
+   "Longitude": -47.06601,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "CLARISSA CARVALHO DE A MOREIRA",
+   "Doctor Code": "53-CRM-19180",
+   "Specialty": "CLINICO GERAL",
+   "Doctor Telephone": "+55 (61) 81441626",
+   "Latitude": -22.91075,
+   "Longitude": -47.06602,
+   "Rating": 4
+ },
+ {
+   "Doctor Name": "RENAULT MATTOS RIBEIRO JUNIOR",
+   "Doctor Code": "53-CRM-8985",
+   "Specialty": "DERMATOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441628",
+   "Latitude": -22.91076,
+   "Longitude": -47.06603,
+   "Rating": 5
+ },
+ {
+   "Doctor Name": "MARGARITA CORONEL BAZZANO",
+   "Doctor Code": "RJ-CRM-12513",
+   "Specialty": "CLINICO GERAL",
+   "Doctor Telephone": "+55 (61) 81441629",
+   "Latitude": -22.91077,
+   "Longitude": -47.06604,
+   "Rating": 4
+ },
+ {
+   "Doctor Name": "ALEXANDRA RUBIM CAMARA SETE",
+   "Doctor Code": "RJ-CRM-9900",
+   "Specialty": "DERMATOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441630",
+   "Latitude": -22.91078,
+   "Longitude": -47.06605,
+   "Rating": 4
+ },
+ {
+   "Doctor Name": "ANA AUZIER FREITAS",
+   "Doctor Code": "53-CRM-19956",
+   "Specialty": "CARDIOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441631",
+   "Latitude": -22.91079,
+   "Longitude": -47.06606,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "MARIANA HERENIO MARISSON DA CO",
+   "Doctor Code": "53-CRM-23186",
+   "Specialty": "NEUROLOGIA",
+   "Doctor Telephone": "+55 (61) 81441632",
+   "Latitude": -22.9108,
+   "Longitude": -47.06607,
+   "Rating": 2
+ },
+ {
+   "Doctor Name": "KARLA KAROLINE QUEIROZ DE CARV",
+   "Doctor Code": "53-CRM-20918",
+   "Specialty": "PEDIATRIA",
+   "Doctor Telephone": "+55 (61) 81441636",
+   "Latitude": -22.91081,
+   "Longitude": -47.06608,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "YANDARA WARD SA",
+   "Doctor Code": "53-CRM-22193",
+   "Specialty": "PEDIATRIA",
+   "Doctor Telephone": "+55 (61) 81441642",
+   "Latitude": -22.91082,
+   "Longitude": -47.06609,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "WILLIAM CESAR BENTO",
+   "Doctor Code": "RJ-CRM-7867",
+   "Specialty": "DERMATOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441643",
+   "Latitude": -22.91083,
+   "Longitude": -47.0661,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "ISABELA ROCHA PEIXOTO",
+   "Doctor Code": "53-CRM-21306",
+   "Specialty": "CIRURGIA",
+   "Doctor Telephone": "+55 (61) 81441644",
+   "Latitude": -22.91084,
+   "Longitude": -47.06611,
+   "Rating": 2
+ },
+ {
+   "Doctor Name": "RAFAEL S. DUARTE",
+   "Doctor Code": "RJ-CRM-23963",
+   "Specialty": "CLINICO GERAL",
+   "Doctor Telephone": "+55 (61) 81441646",
+   "Latitude": -22.91085,
+   "Longitude": -47.06612,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "FABRICIO ALVES FERREIRA",
+   "Doctor Code": "53-CRM-19498",
+   "Specialty": "ENDOCRINOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441647",
+   "Latitude": -22.91086,
+   "Longitude": -47.06613,
+   "Rating": 2
+ },
+ {
+   "Doctor Name": "HOBER CAMINHAS FASCIANI JUNIOR",
+   "Doctor Code": "RJ-CRM-21417",
+   "Specialty": "ENDOCRINOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441651",
+   "Latitude": -22.91087,
+   "Longitude": -47.06614,
+   "Rating": 2
+ },
+ {
+   "Doctor Name": "BELIZA HELENA DE ANDRADE MOTA",
+   "Doctor Code": "53-CRM-16953",
+   "Specialty": "ENDOCRINOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441652",
+   "Latitude": -22.91088,
+   "Longitude": -47.06615,
+   "Rating": 4
+ },
+ {
+   "Doctor Name": "JOAO PAULO CASTRO BRAGA",
+   "Doctor Code": "53-CRM-18133",
+   "Specialty": "CLINICO GERAL",
+   "Doctor Telephone": "+55 (61) 81441653",
+   "Latitude": -22.91089,
+   "Longitude": -47.06616,
+   "Rating": 2
+ },
+ {
+   "Doctor Name": "LUIZ RENATO BRETAS NETTO",
+   "Doctor Code": "53-CRM-1329",
+   "Specialty": "CLINICO GERAL",
+   "Doctor Telephone": "+55 (61) 81441655",
+   "Latitude": -22.9109,
+   "Longitude": -47.06617,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "ROSANA MIRANDA PASSOS",
+   "Doctor Code": "RJ-CRM-23477",
+   "Specialty": "ENDOCRINOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441656",
+   "Latitude": -22.91091,
+   "Longitude": -47.06618,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "VICENTE LOBO FURTADO",
+   "Doctor Code": "53-CRM-3266",
+   "Specialty": "CLINICO GERAL",
+   "Doctor Telephone": "+55 (61) 81441658",
+   "Latitude": -22.91092,
+   "Longitude": -47.06619,
+   "Rating": 2
+ },
+ {
+   "Doctor Name": "RITA P DE ASSIS",
+   "Doctor Code": "RJ-CRM-23694",
+   "Specialty": "PEDIATRIA",
+   "Doctor Telephone": "+55 (61) 81441660",
+   "Latitude": -22.91093,
+   "Longitude": -47.0662,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "BONFIM ABRAHAO TOBIAS",
+   "Doctor Code": "53-CRM-1193",
+   "Specialty": "DERMATOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441661",
+   "Latitude": -22.91094,
+   "Longitude": -47.06621,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "JORDANNA SANTANNA DINIZ E MOUR",
+   "Doctor Code": "53-CRM-20813",
+   "Specialty": "CLINICO GERAL",
+   "Doctor Telephone": "+55 (61) 81441664",
+   "Latitude": -22.91095,
+   "Longitude": -47.06622,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "JO OCER CASTRO SOUSA",
+   "Doctor Code": "53-CRM-20706",
+   "Specialty": "DERMATOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441667",
+   "Latitude": -22.91096,
+   "Longitude": -47.06623,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "JOAO ALBERTO TEIXEIRA JUNIOR",
+   "Doctor Code": "53-CRM-18631",
+   "Specialty": "CIRURGIA",
+   "Doctor Telephone": "+55 (61) 81441668",
+   "Latitude": -22.91097,
+   "Longitude": -47.06624,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "RAIENE BARBOSA DE MORAIS",
+   "Doctor Code": "53-CRM-17071",
+   "Specialty": "CARDIOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441669",
+   "Latitude": -22.91098,
+   "Longitude": -47.06625,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "GABRIELA DI GUIDA",
+   "Doctor Code": "53-CRM-14830",
+   "Specialty": "ENDOCRINOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441670",
+   "Latitude": -22.91099,
+   "Longitude": -47.06626,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "ARNALDO BOLINJA R JUNIOR",
+   "Doctor Code": "53-CRM-22753",
+   "Specialty": "CIRURGIA",
+   "Doctor Telephone": "+55 (61) 81441676",
+   "Latitude": -22.911,
+   "Longitude": -47.06627,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "MARINA BETTIOL NOGUEIRA",
+   "Doctor Code": "53-CRM-17587",
+   "Specialty": "PEDIATRIA",
+   "Doctor Telephone": "+55 (61) 81441678",
+   "Latitude": -22.91101,
+   "Longitude": -47.06628,
+   "Rating": 4
+ },
+ {
+   "Doctor Name": "ULYSSES JOSE GUEDES GOMES",
+   "Doctor Code": "53-CRM-7154",
+   "Specialty": "CIRURGIA",
+   "Doctor Telephone": "+55 (61) 81441680",
+   "Latitude": -22.91102,
+   "Longitude": -47.06629,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "LOAIY IBRAHIM MOHD MUSTAFA KAR",
+   "Doctor Code": "53-CRM-6422",
+   "Specialty": "ENDOCRINOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441687",
+   "Latitude": -22.91103,
+   "Longitude": -47.0663,
+   "Rating": 2
+ },
+ {
+   "Doctor Name": "TATIANA CHIARA COSTA GUERRA BE",
+   "Doctor Code": "53-CRM-8212",
+   "Specialty": "ENDOCRINOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441688",
+   "Latitude": -22.91104,
+   "Longitude": -47.06631,
+   "Rating": 2
+ },
+ {
+   "Doctor Name": "LIDIANE DE FARIA VALENTE",
+   "Doctor Code": "53-CRM-15923",
+   "Specialty": "ENDOCRINOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441689",
+   "Latitude": -22.91105,
+   "Longitude": -47.06632,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "LIV JANOVILLE SANTANA SOBRAL",
+   "Doctor Code": "53-CRM-20833",
+   "Specialty": "PEDIATRIA",
+   "Doctor Telephone": "+55 (61) 81441690",
+   "Latitude": -22.91106,
+   "Longitude": -47.06633,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "CELEDOME P. DOS SANTOS",
+   "Doctor Code": "53-CRM-24176",
+   "Specialty": "CARDIOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441691",
+   "Latitude": -22.91107,
+   "Longitude": -47.06634,
+   "Rating": 1
+ },
+ {
+   "Doctor Name": "ARNALDO BERNARDINO ALVES",
+   "Doctor Code": "53-CRM-6581",
+   "Specialty": "CLINICO GERAL",
+   "Doctor Telephone": "+55 (61) 81441692",
+   "Latitude": -22.91108,
+   "Longitude": -47.06635,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "BRUNO PASSOS DE SOUZA CARNEIRO",
+   "Doctor Code": "53-CRM-11142",
+   "Specialty": "CIRURGIA",
+   "Doctor Telephone": "+55 (61) 81441693",
+   "Latitude": -22.91109,
+   "Longitude": -47.06636,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "DENNYSON MELO ANDRADE",
+   "Doctor Code": "53-CRM-13233",
+   "Specialty": "ENDOCRINOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441695",
+   "Latitude": -22.9111,
+   "Longitude": -47.06637,
+   "Rating": 4
+ },
+ {
+   "Doctor Name": "MARTA",
+   "Doctor Code": "RJ-CRM-121332",
+   "Specialty": "ENDOCRINOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441697",
+   "Latitude": -22.91111,
+   "Longitude": -47.06638,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "CLAUDIA JULIANE MARTINS DE MEL",
+   "Doctor Code": "53-CRM-21901",
+   "Specialty": "ENDOCRINOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441700",
+   "Latitude": -22.91112,
+   "Longitude": -47.06639,
+   "Rating": 4
+ },
+ {
+   "Doctor Name": "WILIAM JONATHAN GRACINDO DE OLI",
+   "Doctor Code": "53-CRM-16964",
+   "Specialty": "NEUROLOGIA",
+   "Doctor Telephone": "+55 (61) 81441701",
+   "Latitude": -22.91113,
+   "Longitude": -47.0664,
+   "Rating": 4
+ },
+ {
+   "Doctor Name": "MARCO VINICIUS FERNANDES",
+   "Doctor Code": "53-CRM-23973",
+   "Specialty": "CIRURGIA",
+   "Doctor Telephone": "+55 (61) 81441704",
+   "Latitude": -22.91114,
+   "Longitude": -47.06641,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "NATHALIA SANTOS E COSTA LUPATI",
+   "Doctor Code": "53-CRM-14915",
+   "Specialty": "CIRURGIA",
+   "Doctor Telephone": "+55 (61) 81441712",
+   "Latitude": -22.91115,
+   "Longitude": -47.06642,
+   "Rating": 2
+ },
+ {
+   "Doctor Name": "ANDREIA NERI FERREIRA SATHLER",
+   "Doctor Code": "53-CRM-11034",
+   "Specialty": "ENDOCRINOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441713",
+   "Latitude": -22.91116,
+   "Longitude": -47.06643,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "HENDRICK PETER HOYLER",
+   "Doctor Code": "53-CRM-20370",
+   "Specialty": "CARDIOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441715",
+   "Latitude": -22.91117,
+   "Longitude": -47.06644,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "CAROLINA AMORIM DE BARROS",
+   "Doctor Code": "53-CRM-21673",
+   "Specialty": "CARDIOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441716",
+   "Latitude": -22.91118,
+   "Longitude": -47.06645,
+   "Rating": 4
+ },
+ {
+   "Doctor Name": "TATIANA MARA ANDRE CORDEIRO",
+   "Doctor Code": "53-CRM-15257",
+   "Specialty": "CLINICO GERAL",
+   "Doctor Telephone": "+55 (61) 81441717",
+   "Latitude": -22.91119,
+   "Longitude": -47.06646,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "DENISE GOMES CIDADE",
+   "Doctor Code": "53-CRM-7230",
+   "Specialty": "CLINICO GERAL",
+   "Doctor Telephone": "+55 (61) 81441719",
+   "Latitude": -22.9112,
+   "Longitude": -47.06647,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "FRANCI AIKO UEHARA HUAMANI",
+   "Doctor Code": "53-CRM-14161",
+   "Specialty": "NEUROLOGIA",
+   "Doctor Telephone": "+55 (61) 81441725",
+   "Latitude": -22.91121,
+   "Longitude": -47.06648,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "ADRIANA DE A MUCIO",
+   "Doctor Code": "RJ-CRM-23756",
+   "Specialty": "DERMATOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441727",
+   "Latitude": -22.91122,
+   "Longitude": -47.06649,
+   "Rating": 4
+ },
+ {
+   "Doctor Name": "ISABELA CRISTINA DE MAGALHAES",
+   "Doctor Code": "53-CRM-21426",
+   "Specialty": "CIRURGIA",
+   "Doctor Telephone": "+55 (61) 81441730",
+   "Latitude": -22.91123,
+   "Longitude": -47.0665,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "NADIA BORGES HAUBERT",
+   "Doctor Code": "53-CRM-20042",
+   "Specialty": "ENDOCRINOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441731",
+   "Latitude": -22.91124,
+   "Longitude": -47.06651,
+   "Rating": 2
+ },
+ {
+   "Doctor Name": "LOUESTER MAGALHAES OLIVEIRA",
+   "Doctor Code": "RJ-CRM-15327",
+   "Specialty": "CIRURGIA",
+   "Doctor Telephone": "+55 (61) 81441732",
+   "Latitude": -22.91125,
+   "Longitude": -47.06652,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "JAMAL ALI HUSNI",
+   "Doctor Code": "53-CRM-15537",
+   "Specialty": "PEDIATRIA",
+   "Doctor Telephone": "+55 (61) 81441736",
+   "Latitude": -22.91126,
+   "Longitude": -47.06653,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "DANYLLO ANTONIO MARTINS DE CAM",
+   "Doctor Code": "53-CRM-22067",
+   "Specialty": "ENDOCRINOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441740",
+   "Latitude": -22.91127,
+   "Longitude": -47.06654,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "PATRICIA RAQUEL FERREIRA DE OL",
+   "Doctor Code": "53-CRM-13761",
+   "Specialty": "NEUROLOGIA",
+   "Doctor Telephone": "+55 (61) 81441742",
+   "Latitude": -22.91128,
+   "Longitude": -47.06655,
+   "Rating": 4
+ },
+ {
+   "Doctor Name": "RITAA QUEIROZ ROSSI",
+   "Doctor Code": "35-CRM-23711",
+   "Specialty": "CARDIOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441744",
+   "Latitude": -22.91129,
+   "Longitude": -47.06656,
+   "Rating": 4
+ },
+ {
+   "Doctor Name": "RAFAEL HORACIO LISBOA",
+   "Doctor Code": "53-CRM-23550",
+   "Specialty": "NEUROLOGIA",
+   "Doctor Telephone": "+55 (61) 81441745",
+   "Latitude": -22.9113,
+   "Longitude": -47.06657,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "ANTONIO CLAUDENIR SOUZA CALDAS",
+   "Doctor Code": "RJ-CRM-6648",
+   "Specialty": "CLINICO GERAL",
+   "Doctor Telephone": "+55 (61) 81441747",
+   "Latitude": -22.91131,
+   "Longitude": -47.06658,
+   "Rating": 2
+ },
+ {
+   "Doctor Name": "ROBERTA P BARCELOS",
+   "Doctor Code": "53-CRM-14944",
+   "Specialty": "ENDOCRINOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441749",
+   "Latitude": -22.91132,
+   "Longitude": -47.06659,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "WILIAM ENRIQUE URIBE VALENCIA",
+   "Doctor Code": "53-CRM-19069",
+   "Specialty": "CARDIOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441750",
+   "Latitude": -22.91133,
+   "Longitude": -47.0666,
+   "Rating": 4
+ },
+ {
+   "Doctor Name": "JULIO BESERRA EVARISTO",
+   "Doctor Code": "53-CRM-18733",
+   "Specialty": "CIRURGIA",
+   "Doctor Telephone": "+55 (61) 81441751",
+   "Latitude": -22.91134,
+   "Longitude": -47.06661,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "LUCIANA COELHO PENALVA DA SILV",
+   "Doctor Code": "RJ-CRM-10869",
+   "Specialty": "ENDOCRINOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441755",
+   "Latitude": -22.91135,
+   "Longitude": -47.06662,
+   "Rating": 2
+ },
+ {
+   "Doctor Name": "JAIME MIRANDA PARCA",
+   "Doctor Code": "53-CRM-9818",
+   "Specialty": "ENDOCRINOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441758",
+   "Latitude": -22.91136,
+   "Longitude": -47.06663,
+   "Rating": 4
+ },
+ {
+   "Doctor Name": "JUSSANE CABRAL MENDONCA",
+   "Doctor Code": "53-CRM-12247",
+   "Specialty": "CARDIOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441759",
+   "Latitude": -22.91137,
+   "Longitude": -47.06664,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "MATHEUS SAMPAIO TAVARES",
+   "Doctor Code": "53-CRM-24595",
+   "Specialty": "DERMATOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441760",
+   "Latitude": -22.91138,
+   "Longitude": -47.06665,
+   "Rating": 4
+ },
+ {
+   "Doctor Name": "ERNANI DE SOUZA FILHO",
+   "Doctor Code": "53-CRM-3873",
+   "Specialty": "DERMATOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441761",
+   "Latitude": -22.91139,
+   "Longitude": -47.06666,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "ANA DO SOCORRO ALMEIDA DE OL",
+   "Doctor Code": "53-CRM-16895",
+   "Specialty": "DERMATOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441763",
+   "Latitude": -22.9114,
+   "Longitude": -47.06667,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "LUIZ RODRIGUES AGUILA",
+   "Doctor Code": "53-CRM-28922",
+   "Specialty": "DERMATOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441764",
+   "Latitude": -22.91141,
+   "Longitude": -47.06668,
+   "Rating": 4
+ },
+ {
+   "Doctor Name": "JOAO EUDES LOPES DA SOUZA",
+   "Doctor Code": "53-CRM-10066",
+   "Specialty": "DERMATOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441767",
+   "Latitude": -22.91142,
+   "Longitude": -47.06669,
+   "Rating": 4
+ },
+ {
+   "Doctor Name": "GERSON LUIZ ROOS",
+   "Doctor Code": "53-CRM-7170",
+   "Specialty": "CLINICO GERAL",
+   "Doctor Telephone": "+55 (61) 81441771",
+   "Latitude": -22.91143,
+   "Longitude": -47.0667,
+   "Rating": 2
+ },
+ {
+   "Doctor Name": "NAYARA CRISTINA PEREIRA",
+   "Doctor Code": "RJ-CRM-21492",
+   "Specialty": "CIRURGIA",
+   "Doctor Telephone": "+55 (61) 81441778",
+   "Latitude": -22.91144,
+   "Longitude": -47.06671,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "DANIEL PETRIZ DE ASSIS",
+   "Doctor Code": "53-CRM-17275",
+   "Specialty": "CARDIOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441781",
+   "Latitude": -22.91145,
+   "Longitude": -47.06672,
+   "Rating": 4
+ },
+ {
+   "Doctor Name": "MATHEUS CAPUTO GUIMARAES",
+   "Doctor Code": "53-CRM-20478",
+   "Specialty": "CLINICO GERAL",
+   "Doctor Telephone": "+55 (61) 81441786",
+   "Latitude": -22.91146,
+   "Longitude": -47.06673,
+   "Rating": 4
+ },
+ {
+   "Doctor Name": "LUIS SOARES GOULART",
+   "Doctor Code": "53-CRM-21569",
+   "Specialty": "CIRURGIA",
+   "Doctor Telephone": "+55 (61) 81441788",
+   "Latitude": -22.91147,
+   "Longitude": -47.06674,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "VITOR COELHO SOARES",
+   "Doctor Code": "53-CRM-23742",
+   "Specialty": "ENDOCRINOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441794",
+   "Latitude": -22.91148,
+   "Longitude": -47.06675,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "JOSE ROBERTO DE CASTRO VIANA J",
+   "Doctor Code": "53-CRM-20695",
+   "Specialty": "CIRURGIA",
+   "Doctor Telephone": "+55 (61) 81441799",
+   "Latitude": -22.91149,
+   "Longitude": -47.06676,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "EMANUELLY A ALMEIDA",
+   "Doctor Code": "53-CRM-24401",
+   "Specialty": "CIRURGIA",
+   "Doctor Telephone": "+55 (61) 81441800",
+   "Latitude": -22.9115,
+   "Longitude": -47.06677,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "ANDRE BATISTA DE VASCONCELOS",
+   "Doctor Code": "53-CRM-9700",
+   "Specialty": "DERMATOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441801",
+   "Latitude": -22.91151,
+   "Longitude": -47.06678,
+   "Rating": 2
+ },
+ {
+   "Doctor Name": "LUIS SOUZA DE AZEVEDO",
+   "Doctor Code": "53-CRM-22205",
+   "Specialty": "NEUROLOGIA",
+   "Doctor Telephone": "+55 (61) 81441803",
+   "Latitude": -22.91152,
+   "Longitude": -47.06679,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "PRISCILLA ALVES ROLON",
+   "Doctor Code": "53-CRM-19766",
+   "Specialty": "ENDOCRINOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441807",
+   "Latitude": -22.91153,
+   "Longitude": -47.0668,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "ISABELA PRUDENCIO JACQUES",
+   "Doctor Code": "53-CRM-16191",
+   "Specialty": "CIRURGIA",
+   "Doctor Telephone": "+55 (61) 81441808",
+   "Latitude": -22.91154,
+   "Longitude": -47.06681,
+   "Rating": 4
+ },
+ {
+   "Doctor Name": "JONATHAN CAMPOS MORAIS",
+   "Doctor Code": "53-CRM-17115",
+   "Specialty": "ENDOCRINOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441809",
+   "Latitude": -22.91155,
+   "Longitude": -47.06682,
+   "Rating": 4
+ },
+ {
+   "Doctor Name": "LIVIA DE FREITAS RODRIGUES",
+   "Doctor Code": "53-CRM-19031",
+   "Specialty": "CLINICO GERAL",
+   "Doctor Telephone": "+55 (61) 81441811",
+   "Latitude": -22.91156,
+   "Longitude": -47.06683,
+   "Rating": 4
+ },
+ {
+   "Doctor Name": "HELIO MITIHARO NISHI",
+   "Doctor Code": "53-CRM-4132",
+   "Specialty": "DERMATOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441815",
+   "Latitude": -22.91157,
+   "Longitude": -47.06684,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "LUIZ GONZAGA MOTA DE SOUZA",
+   "Doctor Code": "53-CRM-4224",
+   "Specialty": "CIRURGIA",
+   "Doctor Telephone": "+55 (61) 81441816",
+   "Latitude": -22.91158,
+   "Longitude": -47.06685,
+   "Rating": 4
+ },
+ {
+   "Doctor Name": "ANA CAROLINA RODRIGUES GOIS",
+   "Doctor Code": "53-CRM-21548",
+   "Specialty": "NEUROLOGIA",
+   "Doctor Telephone": "+55 (61) 81441820",
+   "Latitude": -22.91159,
+   "Longitude": -47.06686,
+   "Rating": 2
+ },
+ {
+   "Doctor Name": "DANILLO ALMEIDA DE CARVALHO",
+   "Doctor Code": "53-CRM-19916",
+   "Specialty": "NEUROLOGIA",
+   "Doctor Telephone": "+55 (61) 81441824",
+   "Latitude": -22.9116,
+   "Longitude": -47.06687,
+   "Rating": 2
+ },
+ {
+   "Doctor Name": "DIMITRIA GODINHO HOMAR",
+   "Doctor Code": "53-CRM-21984",
+   "Specialty": "ENDOCRINOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441827",
+   "Latitude": -22.91161,
+   "Longitude": -47.06688,
+   "Rating": 5
+ },
+ {
+   "Doctor Name": "GLAYNE CHAVES DE SOUZA",
+   "Doctor Code": "53-CRM-2919",
+   "Specialty": "NEUROLOGIA",
+   "Doctor Telephone": "+55 (61) 81441830",
+   "Latitude": -22.91162,
+   "Longitude": -47.06689,
+   "Rating": 2
+ },
+ {
+   "Doctor Name": "ANA CLAUDIA NUNES SOLA",
+   "Doctor Code": "53-CRM-19481",
+   "Specialty": "NEUROLOGIA",
+   "Doctor Telephone": "+55 (61) 81441831",
+   "Latitude": -22.91163,
+   "Longitude": -47.0669,
+   "Rating": 1
+ },
+ {
+   "Doctor Name": "PATRICIA EIKO YAMAKAWA",
+   "Doctor Code": "53-CRM-15766",
+   "Specialty": "CARDIOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441833",
+   "Latitude": -22.91164,
+   "Longitude": -47.06691,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "RAIZA KAROLINE ALMEIDA DE ASSI",
+   "Doctor Code": "RJ-CRM-19992",
+   "Specialty": "CARDIOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441837",
+   "Latitude": -22.91165,
+   "Longitude": -47.06692,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "MARIANA DOS SANTOS PEREIRA",
+   "Doctor Code": "53-CRM-21347",
+   "Specialty": "DERMATOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441840",
+   "Latitude": -22.91166,
+   "Longitude": -47.06693,
+   "Rating": 2
+ },
+ {
+   "Doctor Name": "PRISCILA CARVALHO FREITAS LIMA",
+   "Doctor Code": "53-CRM-18807",
+   "Specialty": "CIRURGIA",
+   "Doctor Telephone": "+55 (61) 81441841",
+   "Latitude": -22.91167,
+   "Longitude": -47.06694,
+   "Rating": 2
+ },
+ {
+   "Doctor Name": "JOAO A FEREIRA JUNIOR",
+   "Doctor Code": "53-CRM-18631",
+   "Specialty": "CIRURGIA",
+   "Doctor Telephone": "+55 (61) 81441844",
+   "Latitude": -22.91168,
+   "Longitude": -47.06695,
+   "Rating": 4
+ },
+ {
+   "Doctor Name": "CAMILA RIBEIRO LEAO",
+   "Doctor Code": "53-CRM-20310",
+   "Specialty": "NEUROLOGIA",
+   "Doctor Telephone": "+55 (61) 81441845",
+   "Latitude": -22.91169,
+   "Longitude": -47.06696,
+   "Rating": 3
+ },
+ {
+   "Doctor Name": "LEONARDO GARCIA MIRANDA",
+   "Doctor Code": "RJ-CRM-13285",
+   "Specialty": "ENDOCRINOLOGISTA",
+   "Doctor Telephone": "+55 (61) 81441846",
+   "Latitude": -22.9117,
+   "Longitude": -47.06697,
+   "Rating": 3
+ }
+]
