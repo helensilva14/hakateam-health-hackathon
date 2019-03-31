@@ -1,0 +1,4 @@
+rest-api/serviceAccount.json
+rest-api/__pycache__/
+rest-api/resources/__pycache__/
+.vscode/settings.json
