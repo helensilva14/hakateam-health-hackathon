@@ -7,13 +7,18 @@ from flask_restful import Resource
 
 from resources.crud_methods import create_entity, get_data, get_entity, update_entity, delete_entity    
 
-firebase_admin.initialize_app(options={
-    'databaseURL': 'https://hakateam2019.firebaseio.com/'})
+firebase_admin.initialize_app(options={'databaseURL': 'FIREBASE_DATABASE_URL'})
 
-DOCTORSTORS = db.reference('doctors')
+"""
+Get the databases from the remote server (Firebase)
+"""
+DOCTORS = db.reference('doctors')
 CONSULTATIONS = db.reference('consultations')
 PATIENTS = db.reference('patients')
 
+"""
+Endpoints for consultations
+"""
 class ConsultationsResource(Resource):
     def get(self):
         return get_data(CONSULTATIONS)
@@ -21,6 +26,9 @@ class ConsultationsResource(Resource):
     def post(self):
         return create_entity(CONSULTATIONS)
 
+"""
+Endpoints for a given consultation
+"""
 class ConsultationResource(Resource):
     def get(self, id):
         return get_entity(CONSULTATIONS, id) 
@@ -31,6 +39,9 @@ class ConsultationResource(Resource):
     def delete(self, id):
         return delete_entity(CONSULTATIONS, id)
 
+"""
+Endpoints for doctors
+"""
 class DoctorsResource(Resource):
     def get(self):
         return get_data(DOCTORS)
@@ -38,6 +49,9 @@ class DoctorsResource(Resource):
     def post(self):
         return create_entity(DOCTORS)
 
+"""
+Endpoints for a given doctor
+"""
 class DoctorResource(Resource):
     def get(self, id):
         return get_entity(DOCTORS, id)
@@ -48,6 +62,9 @@ class DoctorResource(Resource):
     def delete(self, id):
         return delete_entity(DOCTORS, id)
 
+"""
+Endpoints for patients
+"""
 class PatientsResource(Resource):
     def get(self):
         return get_data(PATIENTS)
@@ -55,6 +72,9 @@ class PatientsResource(Resource):
     def post(self):
         return create_entity(PATIENTS)
 
+"""
+Endpoints for a given patient
+"""
 class PatientResource(Resource):
     def get(self, id):
         return get_entity(PATIENTS, id)
@@ -65,20 +85,24 @@ class PatientResource(Resource):
     def delete(self, id):
         return delete_entity(PATIENTS, id)
 
+"""
+Endpoints about the doctos recommendation
+"""
 class DoctorsRecommendation(Resource):
     def post(self):
+        # get the selected specialty and city
         req = flask.request.json
 
-        # create a consultation object containing the patient data and the selected specialty
-        url = ''
+        """
+        [TODO] Here will occur the integration between the API and the AI model
+        """
+        # create a consultation object appending the patient data
+
+        # specify the model endpoint
+        url = 'http://localhost:4646/api/recommend-doctors'
         headers = {'content-type': 'application/json', 'Accept-Charset': 'UTF-8'}
-        # predictions = requests.post(url, data=j_data, headers=headers)
-        # ids.append({'id': item.key})
-            
-        # response = flask.jsonify(str(ids))
-        # response.status_code = 201
-        # return response
 
-        # j_data = json.dumps(mock_data)
-
-        # print(r, r.text) # print(r.json())
+        # send request to get the doctors recommendations
+        response = requests.post(url, data=req, headers=headers)
+        response.status_code = 200
+        return response
